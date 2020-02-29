@@ -109,7 +109,7 @@ public class ManageKeys extends JDialog {
         dispose(); //close dialog
     }
 
-    // on calcel
+    // on cancel
     private void onCancel() {
         // close dialog
         dispose();
