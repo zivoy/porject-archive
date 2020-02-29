@@ -161,7 +161,7 @@ public class Question3 {
         } else if (dice.sum == goal) { // win condition
             System.out.println("You win!");
         } else{  // roll again till win or loose
-                rollToGoal(dice, goal);
+            rollToGoal(dice, goal);
         }
     }
 
