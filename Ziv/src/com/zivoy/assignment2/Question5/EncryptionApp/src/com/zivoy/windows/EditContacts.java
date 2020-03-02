@@ -149,6 +149,8 @@ public class EditContacts extends JDialog {
                 model.addElement(entery); // add the element to list
                 keyFeild.setText(""); // empty text fields
                 nameFeild.setText("");
+                sortModel(); // sort all elements
+                reindex(); // reindex elements
             }
         };
 
