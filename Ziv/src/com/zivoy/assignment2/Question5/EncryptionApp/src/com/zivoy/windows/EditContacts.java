@@ -214,36 +214,43 @@ public class EditContacts extends JDialog {
         for (int i = 0; i < this.model.size(); i++) { // iterate over all elements
             elements[i] = this.model.get(i); // fill element array
         }
-        elements = sort(elements); // sort array
+        sort(elements);// sort array
         for (int i = 0; i < elements.length; i++) { // iterate over all elements
             this.model.set(i,elements[i]);  // put element back in place
         }
     }
 
     // sort an element array
-    private Element[] sort(Element[] elements){
-        if (isSorted(elements)) // check if its sorted
-            return elements; // if so return elements
+    private void sort(Element[] elements){
+        do {
+            for (int i = 0; i < elements.length + 1; i++) { // iterate over elements
+                if (isSorted(getSliceOfArray(elements, 0, i))) // check if slice is sorted
+                    continue;  // if so skip loop
 
-        for (int i=0; i<elements.length+1; i++){  // otherwise iterate over the elements
-            if (isSorted(getSliceOfArray(elements,0,i))) // check if the sublist up to this point is sorted
-                continue; // if so then skip
+                Element curr = elements[i - 1]; // otherwise get the element the made it out of order
 
-            Element curr = elements[i-1]; // otherwise get the element the made it out of order
-            for (int j=0; j<i; j++){  // and iterate over all the elements up to that item
-                Element temp = elements[j]; // get the item in the current position
-                elements[j] = curr; // replace the item with the current element
-                curr= temp; // and set the previous item as the current element
-            } // loop untill everything is shifted
-            break; // break out of the loop
-        }
-        return sort(elements); // and do everything again until its sorted
+                int start; // make a start position
+                for (start=i-1;start>0;start--){ // go back from the position of where it is out of order to find a new place for it
+                    if(!elements[start].name.equals(curr.name))
+                        if (firstBiggerString(curr.name,elements[start].name)){
+                            break;  // once found exit
+                        }
+                }//otherwise its 0
+
+                for (int j=start; j < i; j++) {  // iterate over elements in that area and shift them
+                    Element temp = elements[j]; // store what was in that place
+                    elements[j] = curr; // replace it
+                    curr = temp; // and move eh stored variable to be the next one to replace
+                }
+                break;  // break the loop
+            }
+        } while (!isSorted(elements)); // if its not sorted then do it again
     }
 
     // check if array is sorted
     private boolean isSorted(Element[] elements){
         for (int i=1; i<elements.length; i++){ // iterate over array
-            if(!elements[i - 1].equals(elements[i])) // check that they are not the same
+            if(!elements[i - 1].name.equals(elements[i].name)) // check that they are not the same
                 if (firstBiggerString(elements[i-1].name, elements[i].name)) // if the first element is ever bigger then the next one
                 return false; // then its not sorted
         }
