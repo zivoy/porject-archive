@@ -8,7 +8,7 @@ import java.awt.event.*;
 
 // dialog for editing keys
 public class ManageKeys extends JDialog {
-    // some components declared inform file -- intellij
+    // some components declared in form file -- intellij
     private JPanel contentPane;
     private JButton buttonOK;
     private JButton buttonCancel;

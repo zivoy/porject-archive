@@ -16,7 +16,7 @@ import java.awt.event.ActionListener;
 
 // main window
 public class ApplicationWindow extends JFrame {
-    // some components declared inform file -- intellij
+    // some components declared in form file -- intellij
     private JPanel mainPanel;
     private JList<Element> ContactsList;
     private JTextArea OutputTextArea;
