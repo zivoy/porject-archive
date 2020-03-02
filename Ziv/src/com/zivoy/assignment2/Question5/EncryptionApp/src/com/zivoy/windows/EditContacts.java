@@ -243,7 +243,8 @@ public class EditContacts extends JDialog {
     // check if array is sorted
     private boolean isSorted(Element[] elements){
         for (int i=1; i<elements.length; i++){ // iterate over array
-            if (firstBiggerString(elements[i-1].name, elements[i].name)) // if the first element is ever bigger then the next one
+            if(!elements[i - 1].equals(elements[i])) // check that they are not the same
+                if (firstBiggerString(elements[i-1].name, elements[i].name)) // if the first element is ever bigger then the next one
                 return false; // then its not sorted
         }
         return true; // if it got to the end then it is sorted
