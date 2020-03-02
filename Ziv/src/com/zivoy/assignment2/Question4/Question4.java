@@ -1,5 +1,7 @@
 package com.zivoy.assignment2.Question4;
 
+import javax.swing.*;
+import java.awt.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
@@ -13,22 +15,45 @@ import java.util.Random;
 
 public class Question4 {
     public static void main(String[] args) {
+        JFrame frame = new JFrame("Array Question");  // make array question
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // set to close on close
+
+        // make a monospaced font font
+        Font font = new Font("Monospaced", Font.PLAIN, 12);
+        // make a text area
+        JTextArea display = new JTextArea();
+        // set the font to the monospaced font
+        display.setFont(font);
+        // set the field to be not editable
+        display.setEditable(false);
+
+        // make a scroll pane with the text are in it
+        JScrollPane scroll = new JScrollPane(display);
+
+        // add it to the JPanel content panel
+        frame.getContentPane().add(scroll);
+
+        // set the preferred size
+        scroll.setPreferredSize(new Dimension(600, 55));
+        // disable resizability
+        frame.setResizable(false);
+
         // make the random object for generating random numbers
         Random random = new Random();
         // make an arraylist of integers
         ArrayList<Integer> array = new ArrayList<>();
 
         // loop 100 times
-        for (int i = 0; i<100;i++)
+        for (int i = 0; i < 100; i++)
             // add a random number that is 0<= n <= 20 to list
             array.add(random.nextInt(21));
 
         // make a array of 0's that has the size of the array list
         int[] newArray = new int[array.size()];
         // keep curr index
-        int idx=0;
+        int idx = 0;
         // iterate over all the items in the arraylist
-        for (int i: array){
+        for (int i : array) {
             // if its not 0
             if (i != 0) {
                 // add it to the array
@@ -38,12 +63,11 @@ public class Question4 {
             }
         }
         // the rest will automatically be 0's
-
-        // print before
-        System.out.print("before: ");
-        System.out.println(array);
-        // print after
-        System.out.print("after:  ");
-        System.out.println(Arrays.toString(newArray));
+        display.setText(" before: " + array + " \n" +
+                " after:  " + Arrays.toString(newArray));
+        // pack frame
+        frame.pack();
+        // make it visable
+        frame.setVisible(true);
     }
 }
