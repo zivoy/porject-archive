@@ -105,6 +105,8 @@ public class EditContacts extends JDialog {
                     }
                 }
                 model.removeElementAt(selected+1); // remove the element ad index
+
+                sortModel(); // sort jList
                 reindex(); // reindex all elements
             }
         });
@@ -183,6 +185,7 @@ public class EditContacts extends JDialog {
 
     // on ok function
     private void onOK() {
+        sortModel(); // sort all elements
         reindex(); // reindex elements
         this.onclose.close(this.model); // run the onclose function
         dispose(); // close the window
@@ -201,5 +204,73 @@ public class EditContacts extends JDialog {
             curr.index = i + 1; // set the index
             this.model.set(i, curr); // put it back in place
         }
+    }
+
+    // sort list model
+    private void sortModel(){
+        Element[] elements = new Element[this.model.size()]; // create array
+        for (int i = 0; i < this.model.size(); i++) { // iterate over all elements
+            elements[i] = this.model.get(i); // fill element array
+        }
+        elements = sort(elements); // sort array
+        for (int i = 0; i < elements.length; i++) { // iterate over all elements
+            this.model.set(i,elements[i]);  // put element back in place
+        }
+    }
+
+    // sort an element array
+    private Element[] sort(Element[] elements){
+        if (isSorted(elements)) // check if its sorted
+            return elements; // if so return elements
+
+        for (int i=0; i<elements.length+1; i++){  // otherwise iterate over the elements
+            if (isSorted(getSliceOfArray(elements,0,i))) // check if the sublist up to this point is sorted
+                continue; // if so then skip
+
+            Element curr = elements[i-1]; // otherwise get the element the made it out of order
+            for (int j=0; j<i; j++){  // and iterate over all the elements up to that item
+                Element temp = elements[j]; // get the item in the current position
+                elements[j] = curr; // replace the item with the current element
+                curr= temp; // and set the previous item as the current element
+            } // loop untill everything is shifted
+            break; // break out of the loop
+        }
+        return sort(elements); // and do everything again until its sorted
+    }
+
+    // check if array is sorted
+    private boolean isSorted(Element[] elements){
+        for (int i=1; i<elements.length; i++){ // iterate over array
+            if (firstBiggerString(elements[i-1].name, elements[i].name)) // if the first element is ever bigger then the next one
+                return false; // then its not sorted
+        }
+        return true; // if it got to the end then it is sorted
+    }
+
+    // check which string is bigger
+    private boolean firstBiggerString(String string1, String string2) {
+        // determine the length of the shorted string
+        int smallerLength = Math.min(string1.length(), string2.length());
+
+        // iterate over all the characters
+        for (int i = 0; i<smallerLength; i++) {
+            int car1 = string1.charAt(i); // get the character in both strings at index
+            int car2 = string2.charAt(i);
+            if (car1 == car2) // if their the same skip this loop
+                continue;
+            return car1 > car2; // return if the character in string one is bigger then string 2
+        }
+        // if it passed through that loop then return if the smaller string was the second one that means that the first string is bigger
+        return smallerLength == string2.length();
+    }
+
+    // get a slice of array
+    public Element[] getSliceOfArray(Element[] arr, int start, int end) {
+        // make a new array
+        Element[] slice = new Element[end - start];
+        // copy array into new array with slicing
+        System.arraycopy(arr, start, slice, 0, slice.length);
+        // return it
+        return slice;
     }
 }
