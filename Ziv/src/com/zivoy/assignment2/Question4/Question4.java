@@ -15,7 +15,7 @@ import java.util.Random;
 
 public class Question4 {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Array Question");  // make array question
+        JFrame frame = new JFrame("Array Question");  // make array question jFrame
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // set to close on close
 
         // make a monospaced font font
