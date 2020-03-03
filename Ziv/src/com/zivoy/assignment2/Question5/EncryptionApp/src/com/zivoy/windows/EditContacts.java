@@ -79,7 +79,10 @@ public class EditContacts extends JDialog {
             public void valueChanged(ListSelectionEvent e) {
                 if (!list1.isSelectionEmpty()) { // if the section is not empty
                     selected = list1.getSelectedIndex(); // set the selected element to the index
+                    SelctedPanel.setVisible(true); // make the selected item panel visible
+                    SelectedFeild.setText(list1.getSelectedValue().getKeyValue().getKey()); // get the current key and put it in the textbox
                 } else {
+                    SelctedPanel.setVisible(false); // otherwise make it invisible
                     list1.setSelectedIndex(0); // otherwise selected the first element
                     selected = 0;
                 }
@@ -158,19 +161,6 @@ public class EditContacts extends JDialog {
         nameFeild.addActionListener(action);
         keyFeild.addActionListener(action);
         addContactButton.addActionListener(action);
-
-        // add another list selection listener
-        list1.addListSelectionListener(new ListSelectionListener() {
-            @Override
-            public void valueChanged(ListSelectionEvent e) {
-                if (!list1.isSelectionEmpty()) { // if the selection  is not empty
-                    SelctedPanel.setVisible(true); // make the selected item panel visible
-                    SelectedFeild.setText(list1.getSelectedValue().getKeyValue().getKey()); // get the current key and put it in the textbox
-                } else {
-                    SelctedPanel.setVisible(false); // otherwise make it invisible
-                }
-            }
-        });
 
         // add a listener to the private key checkbox
         addPrivateCheckBox.addActionListener(new ActionListener() {
