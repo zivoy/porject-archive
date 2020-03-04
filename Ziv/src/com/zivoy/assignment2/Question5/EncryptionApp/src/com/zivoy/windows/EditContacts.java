@@ -83,8 +83,7 @@ public class EditContacts extends JDialog {
                     SelectedFeild.setText(list1.getSelectedValue().getKeyValue().getKey()); // get the current key and put it in the textbox
                 } else {
                     SelctedPanel.setVisible(false); // otherwise make it invisible
-                    list1.setSelectedIndex(0); // otherwise selected the first element
-                    selected = 0;
+                    selected = -1; // otherwise set the selected to -1 // nothing
                 }
                 if (model.size() == 0) selected = -1; // if there is nothing in it set the selected to -1
             }
@@ -94,20 +93,20 @@ public class EditContacts extends JDialog {
         removeContactButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                if (model.size() > 0) {  // if there are elements in the list
+                if (model.size() > 0 || !list1.isSelectionEmpty()) {  // if there are elements in the list
                     selected --;  // set the selected index to be one lower
                     list1.setSelectedIndex(selected);  // set the selected item to the index
                 } else {
-                    selected = -1; // otherwise set it to -1
+                    selected = -2; // otherwise set it to -1
                 }
-                if (selected == -1) { // if selected is -1
-                    if (list1.getModel().getSize() == 0) { // if the model has no elements then throw an error message
+                selected += 1; // increase it so the -2 becomes -1
+                if (selected == -1 || list1.getModel().getSize() == 0) { // if selected is -1 or the model has no elements then throw an error message
                         JOptionPane.showMessageDialog(null, "Select a contact first",
                                 "Error -- no contact selected", JOptionPane.ERROR_MESSAGE);
                         return;
-                    }
+                    //}
                 }
-                model.removeElementAt(selected+1); // remove the element ad index
+                model.removeElementAt(selected); // remove the element ad index
 
                 sortModel(); // sort jList
                 reindex(); // reindex all elements
@@ -200,6 +199,7 @@ public class EditContacts extends JDialog {
 
     // sort list model
     private void sortModel(){
+        // create a copy
         Element[] elements = new Element[this.model.size()]; // create array
         for (int i = 0; i < this.model.size(); i++) { // iterate over all elements
             elements[i] = this.model.get(i); // fill element array
