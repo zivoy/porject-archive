@@ -93,7 +93,7 @@ public class EditContacts extends JDialog {
         removeContactButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                if (model.size() > 0 || !list1.isSelectionEmpty()) {  // if there are elements in the list
+                if (model.size() > 0 && !list1.isSelectionEmpty()) {  // if there are elements in the list
                     selected --;  // set the selected index to be one lower
                     list1.setSelectedIndex(selected);  // set the selected item to the index
                 } else {
@@ -107,6 +107,8 @@ public class EditContacts extends JDialog {
                     //}
                 }
                 model.removeElementAt(selected); // remove the element ad index
+
+                selected --;  // decrease index by one
 
                 sortModel(); // sort jList
                 reindex(); // reindex all elements
