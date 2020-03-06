@@ -1,8 +1,18 @@
 package com.zivoy.assignment2.Question3;
 
-import java.io.IOException;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.WindowEvent;
 import java.util.Random;
-import java.util.Scanner;
+
+/**
+ * @author Ziv Shalit
+ * @Assignment 2
+ * @Question 3
+ * @Date 2020/02/28
+ *
+ * rewrote with gui on 2020/03/05
+ */
 
 public class Question3 {
     // die collection class
@@ -99,83 +109,228 @@ public class Question3 {
     }
 
     public static void main(String[] args) {
-        DieCollection dices = new DieCollection(2 ); // create dice
-        System.out.println("We will now be playing Craps\n" +
-                           "2 6 sided dice will be rolled\n" + // explain the rules
-                           "On the first roll if the sum of dice is 7 or 11 you will win\n" +
-                           "But if its 2, 3 or 12 you will lose.\n" +
-                           "Otherwise the sum will be used as the rolling goal\n" +
-                           "You will continue to reroll until you get that number or a 7\n" +
-                           "If you rolled a 7 then you lose\n" +
-                           "But if you get the number then you win");
-        System.out.println(); // blank line
+        // set up frame
+        JFrame frame = new JFrame("Craps game");
 
-        Scanner scanner = new Scanner(System.in);  // create scanner
-        boolean again;  // make repeat variable false by default
-        do {
-            game(dices);  // start game
-            System.out.print("\nDo you wish to play again? "); // ask if user wants to play again
-            again=confirm(scanner.next()); // confirm it
-            System.out.println(); // blank line
-        } while (again);  // repeat if they said yes
+        // roll result field
+        JTextField result = new JTextField();
+        // center text
+        result.setHorizontalAlignment(JTextField.CENTER);
+
+        // roll button
+        JButton roll = new JButton("roll dice");
+        // make button fill area
+        roll.setContentAreaFilled(true);
+
+        // inner panes for centering content
+        JPanel inner = new JPanel();
+        JPanel innertop = new JPanel();
+
+        // instructions label for explaining what to do
+        JLabel instructions = new JLabel("you must get");
+
+        // panels for content sections
+        JPanel panel1 = new JPanel();
+        JPanel panel2 = new JPanel();
+        JPanel panel3 = new JPanel();
+
+        // make a layout
+        frame.setLayout(new GridLayout(3, 1));
+        panel1.setLayout(new BoxLayout(panel1, BoxLayout.X_AXIS));
+        panel2.setLayout(new BoxLayout(panel2, BoxLayout.X_AXIS));
+        panel3.setLayout(new BoxLayout(panel3, BoxLayout.X_AXIS));
+
+        // center the instructions label
+        innertop.add(instructions);
+        // add it to top panel
+        panel1.add(innertop);
+
+        // add the result text field to middle panel
+        panel2.add(result);
+        // male it uneditable
+        result.setEditable(false);
+
+        // center the roll button
+        inner.add(roll);
+        // add it to bottom field
+        panel3.add(inner);
+
+        // default close operation
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        // add panels to frame
+        frame.add(panel1);
+        frame.add(panel2);
+        frame.add(panel3);
+
+        // make dice collection with 2 dice
+        DieCollection dices = new DieCollection(2 );
+        // make game object
+        Game game = new Game(frame,instructions,result,dices);
+
+        // create a button listener to roll dice
+        roll.addActionListener(e -> game.roll());
+
+        // pack window
+        frame.pack();
+        // make it visible
+        frame.setVisible(true);
     }
 
-    // function for waiting till the user pressed enter ignore errors from entering characters
-    public static void waitTillEnter(){
-        try{
-            int ignore =System.in.read(); // wait for enter
-        } catch (IOException ignored){} // ignore errors
-    }
-
-    // main game function
-    public static void game(DieCollection dice)  {
-        System.out.print("Press enter to roll");  // prompt user to roll
-        waitTillEnter(); // wait till they press enter
-        System.out.println("You rolled " + dice);  // tell them what they rolled
-        switch (dice.sum){  // check the result
-            case 7:  // neutral
-            case 11:
-                System.out.println("You win!"); // they won
-                break;
-            case 2:
-            case 3:  // craps
-            case 12:
-                System.out.println("You lose."); // they lost
-                break;
-            default: // otherwise set new goal and start function
-                System.out.println("You now have to try and get " + dice.sum + " to win"); // tell them their new goal
-                rollToGoal(dice, dice.sum);  // start the loop to roll til that goal
-                break;
+    // win screen
+    private static void winScreen(Game game){
+        // show dialog telling user that they won
+        int dialogResult = JOptionPane.showConfirmDialog (null,
+                "You have won!\n" +
+                        "do you wish to play again?",
+                "You won!", JOptionPane.YES_NO_OPTION);
+        if(dialogResult == JOptionPane.NO_OPTION){
+            // send close order
+            game.frame.dispatchEvent(new WindowEvent(game.frame, WindowEvent.WINDOW_CLOSING));
         }
+        // restart the game otherwise
+        game.restart();
     }
 
-    // recursive function till you win or lose
-    private static void rollToGoal(DieCollection dice, final int goal) {
-        System.out.println();  // blank line
-        System.out.print("Press enter to roll"); // prompt to roll
-        waitTillEnter(); // wait till they roll
-        dice.roll(); // roll the dice
-        System.out.println("You rolled " + dice); // tell them what they rolled
-        if (dice.sum == 7) {  // loose condition
-            System.out.println("You lose.");
-        } else if (dice.sum == goal) { // win condition
-            System.out.println("You win!");
-        } else{  // roll again till win or loose
-            rollToGoal(dice, goal);
+    // loose screen
+    private static void looseScreen(Game game){
+        // show dialog telling user that they lost
+        int dialogResult = JOptionPane.showConfirmDialog (null,
+                "You have lost :(\n" +
+                        "do you wish to play again?",
+                "You lost.", JOptionPane.YES_NO_OPTION);
+        if(dialogResult == JOptionPane.NO_OPTION){
+            // send closing order
+            game.frame.dispatchEvent(new WindowEvent(game.frame, WindowEvent.WINDOW_CLOSING));
         }
+        // restart the game otherwise
+        game.restart();
     }
 
-    // function to confirm if they wish to play
-    private static boolean confirm(String input){
-        // if the input is true, yes, y or 1 it will return true otherwise false
-        switch (input.toLowerCase()){
-            case "true":
-            case "yes":
-            case "y":
-            case "1":
-                return true;
-            default:
-                return false;
+    // game class
+    static class Game {
+        // this value keeps the round
+        int round;
+        // keep the jFrame
+        JFrame frame;
+        // this keeps the instructions label
+        JLabel instructions;
+        // this text field is for showing the sum
+        JTextField results;
+        // this is for keeping the dice
+        DieCollection dice;
+        // this is the default start message
+        final String string1 = "<html>You must get a 7 or 11 to win.<br/>2, 3 and 12 will make you loose</html>";
+        // variable for second string
+        String string2;
+        // goal that they have to roll to later
+        int goal;
+
+        // constructor
+        Game(JFrame frame, JLabel instructions, JTextField results, DieCollection die) {
+            // set the round to the first one
+            this.round = 0;
+            // save variables
+            this.frame=frame;
+            this.instructions = instructions;
+            this.results = results;
+            this.dice = die;
+
+            // empty text box
+            this.results.setText("");
+
+            // set instructions string
+            this.instructions.setText(string1);
+        }
+
+        private void roll() {
+            // roll dice
+            dice.roll();
+            // set text in field
+            this.results.setText(this.dice.toString());
+            // evaluate game
+            this.evaluate();
+        }
+
+        // evaluate round
+        private void evaluate() {
+            switch (this.round) {
+                // if its first round
+                case 0:
+                    // the evaluate with round one rules
+                    switch (roundOne()){
+                        // they won
+                        case 0:
+                            winScreen(this);
+                            break;
+                        // they lost
+                        case 1:
+                            looseScreen(this);
+                            break;
+                        // they moved to the second round
+                        case 2:
+                            // switch to second round
+                            this.round = 1;
+                            // make new string
+                            string2 = "<html>You must get " + this.dice.sum + " to win.<br/>7 will make you loose</html>";
+                            // set text
+                            this.instructions.setText(string2);
+                            // set goal
+                            this.goal=this.dice.sum;
+                            break;
+                    }
+                    break;
+                // second round onwards
+                case 1:
+                    // evaluate with round 2 rules
+                    switch(this.gameRound()){
+                        // they won
+                        case 0:
+                            winScreen(this);
+                            break;
+                        // they lost
+                        case 1:
+                            looseScreen(this);
+                            break;
+                    }
+                    // otherwise do nothing
+                    break;
+            }
+        }
+
+        // restart game
+        private void restart() {
+            // set to round 1
+            this.round=0;
+            // set instruction text to the first one
+            this.instructions.setText(string1);
+            // roll dice
+            this.results.setText("");
+        }
+
+        // round one rules
+        private int roundOne() {
+            switch (this.dice.sum) {  // check the result
+                case 7:  // neutral
+                case 11:
+                    return 0;
+                case 2:
+                case 3:  // craps
+                case 12:
+                    return 1;
+                default: // otherwise set new goal and start function
+                    return 2;
+            }
+        }
+
+        // second rule set that gets used in rolls after 1
+        private int gameRound() {
+            if (this.dice.sum == 7) {  // loose condition
+                return 1;
+            } else if (this.dice.sum == goal) { // win condition
+                return 0;
+            }
+            return 2; // do nothing
         }
     }
 }
