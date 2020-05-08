@@ -27,7 +27,7 @@ public class Main {
         while (true) {
             System.out.print("space separated list: "); // prompt -- can be commented out
             String input = scanner.nextLine();
-            String[] inputs = input.split(" ");
+            String[] inputs = input.split(" +");
             boolean success = true;
             for (int i = 0; i < inputs.length; i++) {
                 if (i>=numOfEntrys)
