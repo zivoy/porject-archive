@@ -11,10 +11,18 @@ def equals(value, target, lamda=0):
 
 
 # load image
-
+file = "aa colored.png"
 # file = "sample.png"
 # file = "small.png"
 im = Image.open(file)
+
+# turn BW and remove aa
+im = im.convert('LA')
+
+temp = np.array(im)
+temp = (np.round(temp/255)*255).astype(np.uint8)
+im = Image.fromarray(temp)
+
 im = im.convert('RGBA')
 
 # island detection
