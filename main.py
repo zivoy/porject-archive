@@ -1,5 +1,3 @@
-# import matplotlib.pyplot as plt
-
 from PIL import Image
 import numpy as np
 import os
@@ -21,7 +19,6 @@ def unique(array):
 file = "sample.png"
 im = Image.open(file)
 im = im.convert('RGBA')
-# mask = ImageEnhance.Sharpness(im).enhance(10)
 
 data = np.array(im)
 red, green, blue, alpha = data.T
@@ -31,8 +28,6 @@ emptyMask = np.tile(arr, (data.shape[0], data.shape[1], 1))
 
 for j, i in enumerate(unique(data)):
     maskData = emptyMask.copy()
-    # if i == (255, 255, 255, 255):
-    #     continue
     lamda = 0
     print(i)
     highlighted = equals(red, i[0], lamda) & equals(blue, i[2], lamda) & equals(green, i[1], lamda)
@@ -40,5 +35,3 @@ for j, i in enumerate(unique(data)):
 
     mask = Image.fromarray(maskData)
     mask.save(os.path.join("parts", f"{'.'.join(file.split('.')[:-1])}-mask-{j}.png"))
-    # plt.imshow(im2)
-    # plt.show()
