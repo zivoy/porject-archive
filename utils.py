@@ -84,5 +84,4 @@ def MakeMasks(image, contrast=100):
         maskData = emptyMask.copy()
         maskData[..., :-1][i] = (255, 255, 255)
 
-        mask = Image.fromarray(maskData)
-        yield mask
+        yield Image.fromarray(maskData)
