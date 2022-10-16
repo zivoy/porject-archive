@@ -22,9 +22,12 @@ def MakeMasks(image, contrast=100):
 
     # island detection
     data = np.array(im)
-    islands = list()
     x = 0
     y = 0
+
+    arr = np.array([0, 0, 0, 255], dtype=np.uint8)
+    emptyMask = np.tile(arr, (data.shape[0],data.shape[1], 1))
+
     while True:
         found = False
         while x < data.shape[1]:
@@ -60,7 +63,7 @@ def MakeMasks(image, contrast=100):
                         # not out of border
                         t1 = i[0] + j
                         t2 = i[1] + k
-                        if (t1 < 0 or t2 < 0) and (t1 >= data.shape[0] or t2 >= data.shape[1]):
+                        if (t1 < 0 or t2 < 0) or (t1 >= data.shape[0] or t2 >= data.shape[1]):
                             continue
 
                         # not checked
@@ -74,14 +77,8 @@ def MakeMasks(image, contrast=100):
 
         # remove island
         data[..., :-1][island] = (255, 255, 255)
-        islands.append(island)
-
-    # masking
-    arr = np.array([0, 0, 0, 255], dtype=np.uint8)
-    emptyMask = np.tile(arr, (*data.shape[:2], 1))
-
-    for i in islands:
+        # masking
         maskData = emptyMask.copy()
-        maskData[..., :-1][i] = (255, 255, 255)
+        maskData[..., :-1][island] = (255, 255, 255)
 
         yield Image.fromarray(maskData)

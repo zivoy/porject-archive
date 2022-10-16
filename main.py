@@ -7,7 +7,7 @@ def main():
     # file = "sample.png"
     # file = "small.png"
     for i, mask in enumerate(utils.MakeMasks(file)):
-        mask.save(os.path.join("parts", f"{'.'.join(file.split('.')[:-1])}-mask-{i}.png"))
+        mask.save(os.path.join("parts", '.'.join(file.split('.')[:-1]) + "-mask-" + str(i) + ".png"))
 
 
 if __name__ == "__main__":
