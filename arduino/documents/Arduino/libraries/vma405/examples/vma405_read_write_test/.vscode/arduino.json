@@ -1,0 +1,6 @@
+{
+    "sketch": "vma405_read_write_test.ino",
+    "board": "arduino:avr:uno",
+    "output": "../ArduinoOutput",
+    "port": "COM3"
+}

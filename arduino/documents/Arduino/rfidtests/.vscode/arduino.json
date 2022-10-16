@@ -1,0 +1,6 @@
+{
+    "sketch": "rfidtests.ino",
+    "board": "arduino:avr:uno",
+    "output": "../ArduinoOutput",
+    "port": "COM3"
+}
