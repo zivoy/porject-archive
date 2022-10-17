@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="shorten-urls@192.168.86.30" uuid="1cf44be8-919e-4ae2-adc8-9a5d36445c17">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.86.30:5432/shorten-urls</jdbc-url>
+    </data-source>
+  </component>
+</project>

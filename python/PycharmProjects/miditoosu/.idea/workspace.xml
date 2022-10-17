@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1cf68f-184c-4da0-bbec-53ccb57b4d39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="4dee57dd-0e1e-48f7-b7bb-038a51a4d785" />
+  <component name="ProjectId" id="1Xo5fBnmm2qFFE6mhf6w5jxuplO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zivno\PycharmProjects\miditoosu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zivno\PycharmProjects\miditoosu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="lengthen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="miditoosu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lengthen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="miditoosu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="&quot;Rachmaninoff_Piano_Concerto_No_3_1st_Movement_for_2_PianosPS2.mid&quot; -N &quot;Rachmaninoff Piano Concerto No 3 1st Movement for 2 Pianos&quot; -C zivoy -A &quot;Paul Schuddeboom&quot; -V &quot;map this&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="miditoosu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="miditoosu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.scratch_11" />
+      <item itemvalue="Python.scratch_12" />
+      <item itemvalue="Python.lengthen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.lengthen" />
+        <item itemvalue="Python.scratch_12" />
+        <item itemvalue="Python.scratch_11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1cf68f-184c-4da0-bbec-53ccb57b4d39" name="Default Changelist" comment="" />
+      <created>1581699707369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581699707369</updated>
+      <workItem from="1581699710046" duration="26752000" />
+      <workItem from="1581798237388" duration="67000" />
+      <workItem from="1581803508297" duration="9648000" />
+      <workItem from="1581871460063" duration="1239000" />
+      <workItem from="1581877042142" duration="20434000" />
+      <workItem from="1582496324110" duration="1943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="154" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582496379562">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="154" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1396.744@0.0.1396.744" timestamp="1582496379562" />
+    <state x="467" y="177" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581733239699">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="467" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1396.744@0.0.1396.744" timestamp="1581733239699" />
+    <state x="474" y="174" width="707" height="570" key="#xdebugger.evaluate" timestamp="1581964709142">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="474" y="174" width="707" height="570" key="#xdebugger.evaluate/0.0.1396.744@0.0.1396.744" timestamp="1581964709142" />
+    <state width="698" height="466" key="DebuggerActiveHint" timestamp="1581713664037">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="698" height="466" key="DebuggerActiveHint/0.0.1396.744@0.0.1396.744" timestamp="1581713664037" />
+    <state width="1353" height="91" key="GridCell.Tab.0.bottom" timestamp="1582502802814">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="91" key="GridCell.Tab.0.bottom/0.0.1396.744@0.0.1396.744" timestamp="1582502802814" />
+    <state width="1353" height="91" key="GridCell.Tab.0.center" timestamp="1582502802813">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="91" key="GridCell.Tab.0.center/0.0.1396.744@0.0.1396.744" timestamp="1582502802813" />
+    <state width="1353" height="91" key="GridCell.Tab.0.left" timestamp="1582502802813">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="91" key="GridCell.Tab.0.left/0.0.1396.744@0.0.1396.744" timestamp="1582502802813" />
+    <state width="1353" height="91" key="GridCell.Tab.0.right" timestamp="1582502802813">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="91" key="GridCell.Tab.0.right/0.0.1396.744@0.0.1396.744" timestamp="1582502802813" />
+    <state width="1353" height="65" key="GridCell.Tab.1.bottom" timestamp="1581966463670">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="65" key="GridCell.Tab.1.bottom/0.0.1396.744@0.0.1396.744" timestamp="1581966463670" />
+    <state width="1353" height="65" key="GridCell.Tab.1.center" timestamp="1581966463670">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="65" key="GridCell.Tab.1.center/0.0.1396.744@0.0.1396.744" timestamp="1581966463670" />
+    <state width="1353" height="65" key="GridCell.Tab.1.left" timestamp="1581966463670">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="65" key="GridCell.Tab.1.left/0.0.1396.744@0.0.1396.744" timestamp="1581966463670" />
+    <state width="1353" height="65" key="GridCell.Tab.1.right" timestamp="1581966463670">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="65" key="GridCell.Tab.1.right/0.0.1396.744@0.0.1396.744" timestamp="1581966463670" />
+    <state width="707" height="381" key="XDebugger.FullValuePopup" timestamp="1581732136741">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="707" height="381" key="XDebugger.FullValuePopup/0.0.1396.744@0.0.1396.744" timestamp="1581732136741" />
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1581908345306">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1396.744@0.0.1396.744" timestamp="1581908345306" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="int(round(i.time * 1000))" language="Python" />
+        <watch expression="osumap.TimingPoints.Points[-1].time" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/miditoosu$scratch_11.coverage" NAME="scratch_11 Coverage Results" MODIFIED="1581808757121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/miditoosu$scratch_12.coverage" NAME="scratch_12 Coverage Results" MODIFIED="1581881978888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/miditoosu$main.coverage" NAME="main Coverage Results" MODIFIED="1582496434334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/miditoosu$lengthen.coverage" NAME="lengthen Coverage Results" MODIFIED="1581886741705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
