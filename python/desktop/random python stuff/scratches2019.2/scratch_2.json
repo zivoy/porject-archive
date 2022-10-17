@@ -1,0 +1,147 @@
+{
+    "approved"             : "1",
+    "submit_date"          : "2013-05-15 11:32:26",
+    "approved_date"        : "2013-07-06 08:54:46",
+    "last_update"          : "2013-07-06 08:51:22",
+    "artist"               : "Luxion",
+    "beatmap_id"           : "252002",
+    "beatmapset_id"        : "93398",
+    "bpm"                  : "196",
+    "creator"              : "RikiH_",
+    "creator_id"           : "686209",
+    "difficultyrating"     : "5.744717597961426",
+    "diff_aim"             : "2.7706098556518555",
+    "diff_speed"           : "2.9062750339508057",
+    "diff_size"            : "4",
+    "diff_overall"         : "8",
+    "diff_approach"        : "9",
+    "diff_drain"           : "7",
+    "hit_length"           : "114",
+    "source"               : "BMS",
+    "genre_id"             : "2",
+    "language_id"          : "5",
+    "title"                : "High-Priestess",
+    "total_length"         : "146",
+    "version"              : "Overkill",
+    "file_md5"             : "c8f08438204abfcdd1a748ebfae67421",
+
+    "mode"                 : "0",
+    "tags"                 : "kloyd flower roxas",
+    "favourite_count"      : "140",
+    "rating"               : "9.44779",
+    "playcount"            : "94637",
+    "passcount"            : "10599",
+    "count_normal"         : "388",
+    "count_slider"         : "222",
+    "count_spinner"        : "3",
+    "max_combo"            : "899",
+    "download_unavailable" : "0",
+    "audio_unavailable"    : "0"
+},
+
+{
+  "beatmap": {
+    "beatmap_id": 252002,
+    "beatmapset_id": 93398,
+    "approved": 1,
+    "total_length": 146,
+    "hit_length": 114,
+    "version": "Overkill",
+    "artist": "Luxion",
+    "title": "High-Priestess",
+    "creator": "RikiH_",
+    "creator_id": 686209,
+    "mode": 0,
+    "cs": 4,
+    "od": 8,
+    "ar": 9,
+    "hp": 7,
+    "approved_date": "2013-07-06 08:54:46",
+    "last_updated_date": "2013-07-06 08:51:22",
+    "bpm": 196,
+    "bpm_min": 196,
+    "bpm_max": 196,
+    "source": "BMS",
+    "tags": "kloyd flower roxas",
+    "genre_id": 2,
+    "language_id": 5,
+    "max_combo": 899,
+    "star_rating": 5.744717597961426,
+    "star_rating_speed": null,
+    "hit_objects": 613,
+    "num_circles": 388,
+    "num_sliders": 222,
+    "num_spinners": 3,
+    "favorites": 140,
+    "plays": 93521,
+    "passes": 10536,
+    "recalculate": 0,
+    "file_md5": "c8f08438204abfcdd1a748ebfae67421",
+    "dontrecalculate": 1
+  },
+  "difficulty": {
+    "0": {
+      "total": 5.744717661535519,
+      "aim": 2.7706099268951196,
+      "speed": 2.9062751320586395,
+      "ar": 9,
+      "od": 8
+    },
+    "2": {
+      "total": 5.544042311384412,
+      "aim": 2.4557220814415683,
+      "speed": 2.8774541804424185,
+      "od": 4,
+      "ar": 4.5
+    },
+    "16": {
+      "aim": 3.0204656618758925,
+      "speed": 2.9396757393273893,
+      "ar": 10,
+      "total": 6.000536362477534,
+      "od": 10
+    },
+    "64": {
+      "total": 8.890392120866037,
+      "aim": 3.7799379348598143,
+      "ar": 10.333333333333332,
+      "od": 9.777777777777779,
+      "speed": 4.66694876895742
+    },
+    "66": {
+      "aim": 3.3520755548817056,
+      "speed": 4.602353209529081,
+      "ar": 7.4,
+      "od": 7.111111111111111,
+      "total": 8.579567591734476
+    },
+    "80": {
+      "total": 9.177731004892937,
+      "aim": 4.120543092080729,
+      "ar": 11,
+      "od": 11.111111111111112,
+      "speed": 4.744972972568381
+    },
+    "256": {
+      "aim": 2.2171158728635905,
+      "speed": 2.2385918570887515,
+      "ar": 7.666666666666666,
+      "od": 6.222222222222222,
+      "total": 4.466445722064923
+    },
+    "258": {
+      "total": 4.3101442898846845,
+      "speed": 2.2186651772578365,
+      "aim": 1.9642930479958596,
+      "ar": 1,
+      "od": 0.8888888888888881
+    },
+    "272": {
+      "aim": 2.4181566027092196,
+      "speed": 2.2638481400301522,
+      "ar": 9,
+      "od": 8.888888888888888,
+      "total": 4.759158974078905
+    }
+  }
+}
