@@ -1,0 +1,12 @@
+https://gist.githubusercontent.com/TheZoc/4bf163aa9a9922b21fbf/raw/c035e0415e65a2624d25c79d52954e9e85882d9f/RawInputList.ahk
+https://superuser.com/questions/651706/map-fn-home-to-screen-brightness-using-autohotkey
+https://autohotkey.com/board/topic/115657-whats-the-purpose-of-the-dollar-sign-in-ahk-script/
+https://gist.github.com/anonymous/4294405#file-applewkhelper-ahk
+https://autohotkey.com/board/topic/85518-how-ro-remap-apple-wireless-keyboard-eject-to-delete/
+https://autohotkey.com/board/topic/81794-fn-key-on-apple-wireless-keyboard/
+https://autohotkey.com/board/topic/63140-i-have-problems-with-the-key-fn/
+https://www.autohotkey.com/docs/KeyList.htm#modifier
+https://www.autohotkey.com/boards/viewtopic.php?t=13235
+https://autohotkey.com/board/topic/38015-ahkhid-an-ahk-implementation-of-the-hid-functions/
+https://www.autohotkey.com/boards/viewtopic.php?t=7545
+https://autohotkey.com/board/topic/77201-how-to-replay-a-fn-key-event-solved/
