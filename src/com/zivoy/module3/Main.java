@@ -1,6 +1,5 @@
 package com.zivoy.module3;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -30,7 +29,7 @@ public class Main {
             String[] inputs = input.split(" +");
             boolean success = true;
             for (int i = 0; i < inputs.length; i++) {
-                if (i>=numOfEntrys)
+                if (i >= numOfEntrys)
                     break;
                 int val;
                 try {
@@ -52,7 +51,7 @@ public class Main {
 
     public static String formatArray(int[] array) {
         String[] input = new String[array.length];
-        for (int i=0;i<array.length;i++){
+        for (int i = 0; i < array.length; i++) {
             input[i] = String.valueOf(array[i]);
         }
         return formatArray(input);
