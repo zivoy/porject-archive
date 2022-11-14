@@ -7,13 +7,11 @@ import (
 )
 
 var (
-	maximum = History{maxLimit, time.Now()}
-	minumum = History{minLimit, time.Now()}
+	maximum = History{0, time.Now()}
+	minumum = History{0, time.Now()}
 )
 
 const (
-	maxLimit = 50
-	minLimit = 0
 	dumpTime = 5 * time.Second
 )
 
@@ -40,14 +38,11 @@ var minQueue HistoryQueue
 func init() {
 	maxQueue = make(HistoryQueue, 0)
 	minQueue = make(HistoryQueue, 0)
-	maxQueue.append(History{24, time.Now()})
-	maxQueue.append(History{50, time.Now()})
-	maxQueue.append(History{20, time.Now()})
+    rand.Seed(time.Now().Unix())
 }
 
 func main() {
 	c := time.After(60 * time.Second)
-    rand.Seed(time.Now().Unix())
 
 	for {
 		select {
@@ -63,14 +58,14 @@ func main() {
             // clear queue
             for i := 0; i<len(maxQueue);i++ {
                 elm := maxQueue[i]
-                if elm.Value <= r{
+                if elm.Value <= r&&elm.TimeSet.Before(t){
                     maxQueue = append(maxQueue[:i],maxQueue[i+1:]...)
                     i --
                 }
             }
             for  i := 0; i<len(minQueue);i++{
                 elm := minQueue[i]
-                if elm.Value >= r  {//&& elm.TimeSet.Before(t)
+                if elm.Value >= r && elm.TimeSet.Before(t){
                     minQueue = append(minQueue[:i],minQueue[i+1:]...)
                     i --
                 }
@@ -95,7 +90,6 @@ func main() {
 			// revert MinMax
 			if t.Sub(maximum.TimeSet) > dumpTime {
 				if len(maxQueue) == 0 {
-					//maxLimit
 					maximum = History{r, time.Now()}
 				} else {
 					maximum = maxQueue.pop()
@@ -103,7 +97,6 @@ func main() {
 			}
 			if t.Sub(minumum.TimeSet) > dumpTime {
 				if len(minQueue) == 0 {
-					//minLimit
 					minumum = History{r, time.Now()}
 				} else {
 					minumum = minQueue.pop()
