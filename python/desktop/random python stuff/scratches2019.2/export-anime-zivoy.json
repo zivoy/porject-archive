@@ -1,0 +1,2991 @@
+{
+  "user": {
+    "name": "zivoy"
+  },
+  "export": {
+    "type": "anime",
+    "date": "2019-05-11 12:53-0700",
+    "version": "0.1a"
+  },
+  "entries": [
+    {
+      "name": "Spice and Wolf II",
+      "status": "watched",
+      "started": "2016-07-20 09:17:00-07",
+      "completed": "2016-07-20 09:17:00-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Spice and Wolf",
+      "status": "watched",
+      "started": "2016-07-20 09:21:07-07",
+      "completed": "2016-07-20 09:21:07-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Spice and Wolf II OVA",
+      "status": "watched",
+      "started": "2016-07-20 09:21:41-07",
+      "completed": "2016-07-20 09:21:41-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Log Horizon",
+      "status": "watched",
+      "started": "2016-07-20 09:22:28-07",
+      "completed": "2016-07-20 09:22:28-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 25
+    },
+    {
+      "name": "Log Horizon 2",
+      "status": "watched",
+      "started": "2016-07-20 09:22:42-07",
+      "completed": "2016-07-20 09:22:42-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 25
+    },
+    {
+      "name": "Sword Art Online",
+      "status": "watched",
+      "started": "2016-07-20 09:23:50-07",
+      "completed": "2016-07-20 09:23:50-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Sword Art Online II",
+      "status": "watched",
+      "started": "2016-07-20 09:23:58-07",
+      "completed": "2016-07-20 09:23:58-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Overlord",
+      "status": "watched",
+      "started": "2016-07-20 09:26:27-07",
+      "completed": "2016-07-20 09:26:27-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 13
+    },
+    {
+      "name": "The Familiar of Zero",
+      "status": "watched",
+      "started": "2016-07-20 09:29:09-07",
+      "completed": "2016-07-20 09:29:09-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Fate\/Zero",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-07-20 09:29:50-07",
+      "rating": 0.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Tsubasa Chronicle",
+      "status": "watched",
+      "started": "2016-07-20 09:31:33-07",
+      "completed": "2016-07-20 09:31:33-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Naruto Shippuden",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 463
+    },
+    {
+      "name": "Tsubasa Chronicle 2nd Series",
+      "status": "watched",
+      "started": "2016-07-20 09:50:30-07",
+      "completed": "2016-07-20 09:50:30-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Tsubasa Chronicle: Torikago no Kuni no Himegimi",
+      "status": "watched",
+      "started": "2016-07-20 09:50:57-07",
+      "completed": "2016-07-20 09:50:57-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Tsubasa Chronicle: Tokyo Revelations",
+      "status": "watched",
+      "started": "2016-07-20 09:51:26-07",
+      "completed": "2016-07-20 09:51:26-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 3
+    },
+    {
+      "name": "Slayers",
+      "status": "dropped",
+      "started": "2016-07-20 09:53:32-07",
+      "completed": "2016-07-20 09:53:32-07",
+      "rating": 0.5,
+      "times": 1,
+      "eps": 2
+    },
+    {
+      "name": "Utawarerumono",
+      "status": "watched",
+      "started": "2016-07-20 09:55:17-07",
+      "completed": "2016-07-20 09:55:17-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "GATE",
+      "status": "watched",
+      "started": "2016-07-28 11:25:37-07",
+      "completed": "2016-07-28 15:21:17-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Ragnarok: The Animation",
+      "status": "dropped",
+      "started": "2016-07-28 09:08:55-07",
+      "completed": "2016-08-21 15:48:47-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Murder Princess",
+      "status": "watched",
+      "started": "2016-07-20 10:01:13-07",
+      "completed": "2016-07-20 10:01:13-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 6
+    },
+    {
+      "name": "Attack on Titan",
+      "status": "watched",
+      "started": "2016-07-20 10:03:42-07",
+      "completed": "2016-07-20 10:03:42-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Fullmetal Alchemist",
+      "status": "watched",
+      "started": "2016-07-20 10:04:11-07",
+      "completed": "2016-07-20 10:04:11-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 51
+    },
+    {
+      "name": "Accel World",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-07-20 10:04:24-07",
+      "rating": 1,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "No Game No Life",
+      "status": "watched",
+      "started": "2016-07-20 10:04:53-07",
+      "completed": "2016-07-20 10:04:53-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Grimgar of Fantasy and Ash",
+      "status": "watched",
+      "started": "2016-07-20 10:05:09-07",
+      "completed": "2016-07-20 10:05:09-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": ".hack\/\/Legend Of The Twilight",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": ".hack\/\/SIGN",
+      "status": "watched",
+      "started": "2016-07-20 10:06:54-07",
+      "completed": "2016-07-20 10:06:54-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Naruto",
+      "status": "watched",
+      "started": "2016-07-20 10:08:35-07",
+      "completed": "2016-07-20 10:08:35-07",
+      "rating": 2,
+      "times": 1,
+      "eps": 220
+    },
+    {
+      "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "status": "watched",
+      "started": "2016-07-20 10:08:53-07",
+      "completed": "2016-07-20 10:08:53-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Fairy Tail",
+      "status": "watched",
+      "started": "2016-07-20 10:09:47-07",
+      "completed": "2016-07-20 10:09:47-07",
+      "rating": 5,
+      "times": 2,
+      "eps": 175
+    },
+    {
+      "name": "Fairy Tail 2",
+      "status": "watched",
+      "started": "2016-07-20 10:11:00-07",
+      "completed": "2016-07-20 10:11:00-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 102
+    },
+    {
+      "name": "Fairy Tail Movie 1: Phoenix Priestess",
+      "status": "watched",
+      "started": "2016-07-20 10:11:15-07",
+      "completed": "2016-07-20 10:11:15-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Problem Children Are Coming From Another World, Aren't They?",
+      "status": "watched",
+      "started": "2016-07-20 10:19:12-07",
+      "completed": "2016-07-20 10:19:12-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Btooom!",
+      "status": "watched",
+      "started": "2016-07-20 10:36:22-07",
+      "completed": "2016-07-20 10:36:22-07",
+      "rating": 1.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Tower of Druaga: the Aegis of Uruk",
+      "status": "stalled",
+      "started": "2016-09-14 20:39:36-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "InuYasha",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Fullmetal Alchemist: The Sacred Star of Milos",
+      "status": "watched",
+      "started": "2016-07-20 10:40:09-07",
+      "completed": "2016-07-20 10:40:09-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Scrapped Princess",
+      "status": "dropped",
+      "started": "2016-07-28 20:30:32-07",
+      "completed": "2016-07-29 09:41:19-07",
+      "rating": 4.5,
+      "times": 0,
+      "eps": 14
+    },
+    {
+      "name": "The Familiar of Zero: Knight of the Twin Moons",
+      "status": "dropped",
+      "started": "2016-09-12 15:10:49-07",
+      "completed": "2016-09-13 12:28:23-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Kemono no Souja Erin",
+      "status": "watched",
+      "started": "2016-07-24 15:09:41-07",
+      "completed": "2016-07-26 10:28:33-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 50
+    },
+    {
+      "name": "Chrome Shelled Regios",
+      "status": "watched",
+      "started": "2016-07-20 10:45:08-07",
+      "completed": "2016-07-20 10:45:08-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Code Geass Gaiden: Boukoku no Akito",
+      "status": "won't watch",
+      "started": "2016-07-20 10:48:20-07",
+      "completed": "2016-07-20 10:48:20-07",
+      "rating": 0,
+      "times": 1,
+      "eps": 0
+    },
+    {
+      "name": "Code Geass: Lelouch of the Rebellion",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-08-21 15:48:32-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "Akame ga Kill!",
+      "status": "watched",
+      "started": "2016-07-20 10:56:17-07",
+      "completed": "2016-07-20 10:56:17-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Kino's Journey",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Magi: The Labyrinth of Magic",
+      "status": "watched",
+      "started": "2016-07-22 18:05:54-07",
+      "completed": "2016-07-24 15:00:57-07",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 25
+    },
+    {
+      "name": "Howl's Moving Castle",
+      "status": "watched",
+      "started": "2016-07-20 11:07:25-07",
+      "completed": "2016-07-20 11:07:25-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Spirited Away",
+      "status": "watched",
+      "started": "2016-07-20 11:07:45-07",
+      "completed": "2016-07-20 11:07:45-07",
+      "rating": 3.5,
+      "times": 2,
+      "eps": 1
+    },
+    {
+      "name": "One Piece",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Dragon Ball Z",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Seven Deadly Sins",
+      "status": "watched",
+      "started": "2016-07-20 17:07:12-07",
+      "completed": "2016-07-22 18:04:20-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "status": "watched",
+      "started": "2016-07-20 17:07:46-07",
+      "completed": "2016-07-20 17:07:46-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 64
+    },
+    {
+      "name": "Yona of the Dawn",
+      "status": "watched",
+      "started": "2016-08-29 09:20:27-07",
+      "completed": "2016-08-29 20:19:52-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Final Fantasy VII: Advent Children",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Tears to Tiara",
+      "status": "watched",
+      "started": "2016-07-26 13:31:52-07",
+      "completed": "2016-07-27 10:51:28-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "The Sacred Blacksmith",
+      "status": "watched",
+      "started": "2016-07-27 11:50:23-07",
+      "completed": "2016-07-27 18:02:59-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "GATE (2016)",
+      "status": "watched",
+      "started": "2016-07-28 20:28:19-07",
+      "completed": "2016-07-28 20:28:19-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Last Exile",
+      "status": "watched",
+      "started": "2016-07-29 12:17:49-07",
+      "completed": "2016-07-29 22:08:03-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Outbreak Company",
+      "status": "stalled",
+      "started": "2016-07-30 12:13:13-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Gargantia on the Verdurous Planet",
+      "status": "watched",
+      "started": "2016-07-30 11:22:39-07",
+      "completed": "2016-07-30 15:20:31-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Kuromukuro",
+      "status": "watched",
+      "started": "2016-07-30 15:21:53-07",
+      "completed": "2017-04-30 07:20:15-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Tengen Toppa Gurren Lagann",
+      "status": "watched",
+      "started": "2016-07-31 02:08:32-07",
+      "completed": "2016-07-31 14:49:51-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 27
+    },
+    {
+      "name": "Re:ZERO -Starting Life in Another World-",
+      "status": "watched",
+      "started": "2016-09-11 12:44:14-07",
+      "completed": "2016-09-18 14:29:09-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Ajin: Demi-Human",
+      "status": "watched",
+      "started": "2016-07-31 15:39:03-07",
+      "completed": "2016-08-01 09:49:20-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "The Irregular at Magic High School",
+      "status": "watched",
+      "started": "2016-08-01 09:59:03-07",
+      "completed": "2016-08-02 14:12:09-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Kill La Kill",
+      "status": "dropped",
+      "started": "2016-08-02 14:18:04-07",
+      "completed": "2016-08-02 15:25:34-07",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Durarara!!",
+      "status": "watched",
+      "started": "2016-08-02 15:28:45-07",
+      "completed": "2016-08-03 16:06:10-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Durarara!! X2 The Third Arc",
+      "status": "watched",
+      "started": "2016-08-05 14:04:12-07",
+      "completed": "2016-08-05 14:04:12-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Durarara!! X2",
+      "status": "watched",
+      "started": "2016-08-05 14:04:29-07",
+      "completed": "2016-08-05 14:04:29-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Durarara!! X2 The Second Arc",
+      "status": "watched",
+      "started": "2016-08-05 14:05:11-07",
+      "completed": "2016-08-05 14:05:11-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Gunslinger Girl",
+      "status": "dropped",
+      "started": "2016-08-05 14:05:54-07",
+      "completed": "2016-08-23 13:49:50-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Black Butler",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-08-05 15:46:06-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Mushishi",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-08-05 16:29:04-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Nurarihyon no Mago: Sennen Makyou",
+      "status": "stalled",
+      "started": "2016-08-05 20:46:29-07",
+      "completed": null,
+      "rating": 5,
+      "times": 0,
+      "eps": 14
+    },
+    {
+      "name": "Bleach",
+      "status": "dropped",
+      "started": "2016-08-05 22:04:50-07",
+      "completed": "2016-08-05 22:56:30-07",
+      "rating": 4.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "K",
+      "status": "watched",
+      "started": "2016-08-05 23:05:18-07",
+      "completed": "2016-08-06 11:37:01-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "RDG: Red Data Girl",
+      "status": "watched",
+      "started": "2016-08-06 11:40:35-07",
+      "completed": "2016-08-22 13:05:43-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Jyu-Oh-Sei",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-08-21 16:09:56-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Fate\/stay night",
+      "status": "watched",
+      "started": "2016-08-22 09:50:09-07",
+      "completed": "2016-08-22 09:50:09-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Fate\/stay night: Unlimited Blade Works Movie",
+      "status": "watched",
+      "started": "2016-08-22 09:51:09-07",
+      "completed": "2016-08-22 09:51:09-07",
+      "rating": 0,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Expelled From Paradise",
+      "status": "watched",
+      "started": "2016-08-23 12:54:26-07",
+      "completed": "2016-08-23 13:48:03-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Moribito: Guardian of the Spirit",
+      "status": "watched",
+      "started": "2016-08-23 15:23:51-07",
+      "completed": "2016-08-24 16:02:18-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Blue Exorcist",
+      "status": "watched",
+      "started": "2016-08-24 17:32:38-07",
+      "completed": "2016-08-25 08:24:47-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Soul Eater",
+      "status": "dropped",
+      "started": "2016-08-25 08:26:48-07",
+      "completed": "2016-08-25 08:43:08-07",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Death Note",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-08-25 09:26:27-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Berserk: Golden Age Arc I - The Egg of the King",
+      "status": "watched",
+      "started": "2016-08-25 11:12:11-07",
+      "completed": "2016-08-25 11:12:11-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Rurouni Kenshin",
+      "status": "watched",
+      "started": "2016-08-25 16:33:29-07",
+      "completed": "2016-08-29 03:57:35-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 94
+    },
+    {
+      "name": "Kabaneri of the Iron Fortress",
+      "status": "watched",
+      "started": "2016-08-29 04:09:26-07",
+      "completed": "2016-08-29 08:54:06-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Peace Maker Kurogane",
+      "status": "dropped",
+      "started": "2016-08-31 10:40:57-07",
+      "completed": "2016-08-31 11:23:38-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Snow White with the Red Hair",
+      "status": "watched",
+      "started": "2016-08-30 08:34:52-07",
+      "completed": "2016-08-30 15:27:31-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Arslan Senki",
+      "status": "stalled",
+      "started": "2016-08-30 23:10:47-07",
+      "completed": "2016-08-31 01:36:35-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Saiunkoku Monogatari",
+      "status": "dropped",
+      "started": "2016-08-31 01:39:57-07",
+      "completed": "2016-08-31 02:51:19-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Fushigi Yugi: The Mysterious Play",
+      "status": "dropped",
+      "started": "2016-08-31 11:26:18-07",
+      "completed": "2016-09-01 15:34:21-07",
+      "rating": 4.5,
+      "times": 0,
+      "eps": 25
+    },
+    {
+      "name": "Snow White with the Red Hair 2nd Season",
+      "status": "watched",
+      "started": "2016-08-30 15:27:53-07",
+      "completed": "2016-08-30 23:06:18-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Angel Beats!",
+      "status": "watched",
+      "started": "2016-09-01 15:37:18-07",
+      "completed": "2016-09-02 01:20:48-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Maoyu: Archenemy & Hero",
+      "status": "watched",
+      "started": "2016-09-02 10:51:22-07",
+      "completed": "2016-09-04 20:18:45-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Amatsuki",
+      "status": "dropped",
+      "started": "2016-09-03 08:42:37-07",
+      "completed": "2016-09-03 09:57:31-07",
+      "rating": 0,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Rokka: Braves of the Six Flowers",
+      "status": "watched",
+      "started": "2016-09-03 13:03:51-07",
+      "completed": "2016-09-03 19:50:04-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Claymore",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-09-03 11:51:12-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Tokyo Ghoul",
+      "status": "dropped",
+      "started": "2016-09-03 20:16:11-07",
+      "completed": "2016-09-04 10:12:55-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "God Eater",
+      "status": "dropped",
+      "started": "2016-09-04 19:20:41-07",
+      "completed": "2016-09-04 20:17:16-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Elemental Gelade",
+      "status": "stalled",
+      "started": "2016-09-04 10:20:17-07",
+      "completed": "2016-09-04 18:58:09-07",
+      "rating": 4,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Xam'd: Lost Memories",
+      "status": "watched",
+      "started": "2016-09-04 20:30:35-07",
+      "completed": "2016-09-06 13:37:49-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "KonoSuba \u2013 God's blessing on this wonderful world!!",
+      "status": "watched",
+      "started": "2016-09-06 18:04:34-07",
+      "completed": "2016-09-08 17:37:20-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Demon King Daimao",
+      "status": "watched",
+      "started": "2016-09-08 17:48:31-07",
+      "completed": "2016-09-09 17:07:29-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Infinite Stratos",
+      "status": "dropped",
+      "started": "2016-09-09 22:39:08-07",
+      "completed": "2016-09-10 00:01:42-07",
+      "rating": 0,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Aesthetica of a Rogue Hero",
+      "status": "watched",
+      "started": "2016-09-09 18:37:23-07",
+      "completed": "2016-09-09 21:58:18-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "World Break: Aria of Curse for a Holy Swordsman",
+      "status": "watched",
+      "started": "2016-09-10 18:16:16-07",
+      "completed": "2016-10-01 11:34:13-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kiznaiver",
+      "status": "watched",
+      "started": "2016-09-10 12:20:14-07",
+      "completed": "2016-09-10 17:06:56-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Unlimited Fafnir",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-09-10 23:53:22-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Noragami",
+      "status": "dropped",
+      "started": "2016-09-10 23:57:16-07",
+      "completed": "2016-09-11 01:03:13-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "The Seven Deadly Sins: Signs of Holy War",
+      "status": "stalled",
+      "started": "2016-09-11 01:04:17-07",
+      "completed": null,
+      "rating": 4.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Ronja, the Robber's Daughter",
+      "status": "dropped",
+      "started": "2016-09-11 02:04:21-07",
+      "completed": "2016-09-11 02:50:04-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Knights of Sidonia",
+      "status": "watched",
+      "started": "2016-09-11 02:53:58-07",
+      "completed": "2016-09-11 02:53:58-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Death Parade",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-09-11 03:46:18-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Night Wizard",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-09-11 12:22:19-07",
+      "rating": 4,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Spice and Wolf II Specials",
+      "status": "watched",
+      "started": "2016-09-11 12:42:24-07",
+      "completed": "2016-09-11 12:42:24-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 2
+    },
+    {
+      "name": "Toradora!",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-09-12 15:07:25-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Gonna be the Twin-Tails!!",
+      "status": "watched",
+      "started": "2016-09-12 21:01:51-07",
+      "completed": "2016-09-12 22:59:34-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kampfer",
+      "status": "watched",
+      "started": "2016-09-13 12:51:26-07",
+      "completed": "2016-09-13 20:33:30-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kampfer fur die Liebe",
+      "status": "watched",
+      "started": "2016-09-13 20:58:11-07",
+      "completed": "2016-09-13 20:58:11-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 2
+    },
+    {
+      "name": "Yamada-kun and the Seven Witches",
+      "status": "watched",
+      "started": "2016-09-13 21:23:35-07",
+      "completed": "2016-09-14 17:41:14-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kashimashi: Girl Meets Girl",
+      "status": "stalled",
+      "started": "2016-09-14 19:41:49-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Ikkitousen",
+      "status": "dropped",
+      "started": "2016-09-18 02:35:37-07",
+      "completed": "2016-09-18 13:55:55-07",
+      "rating": 3,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Dog Days",
+      "status": "watched",
+      "started": "2016-09-16 18:44:20-07",
+      "completed": "2016-09-17 00:35:54-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Maken-ki!",
+      "status": "watched",
+      "started": "2016-09-17 16:51:43-07",
+      "completed": "2016-09-17 22:16:51-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Inu x Boku SS",
+      "status": "watched",
+      "started": "2016-09-15 18:13:37-07",
+      "completed": "2016-09-16 18:05:28-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Maze",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-09-15 14:55:38-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Happiness! De-Lucks First Press Special",
+      "status": "watched",
+      "started": "2016-09-15 15:23:12-07",
+      "completed": "2016-09-15 15:23:12-07",
+      "rating": 0,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "A Certain Magical Index",
+      "status": "stalled",
+      "started": "2016-09-15 15:34:48-07",
+      "completed": null,
+      "rating": 4.5,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Inu x Boku SS Special",
+      "status": "watched",
+      "started": "2016-09-16 18:36:59-07",
+      "completed": "2016-09-16 18:36:59-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Dog Days'",
+      "status": "watched",
+      "started": "2016-09-17 00:59:08-07",
+      "completed": "2016-09-17 13:14:23-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Dog Days''",
+      "status": "watched",
+      "started": "2016-09-17 11:43:54-07",
+      "completed": "2016-09-17 16:45:45-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Maken-ki! Two",
+      "status": "watched",
+      "started": "2016-09-17 22:17:17-07",
+      "completed": "2016-09-18 02:08:29-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Maken-ki! Two Specials",
+      "status": "watched",
+      "started": "2016-09-18 02:28:03-07",
+      "completed": "2016-09-18 02:28:03-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 5
+    },
+    {
+      "name": "Maken-Ki! It's Summer! It's Swimsuits! It's Training Camp!",
+      "status": "watched",
+      "started": "2016-09-18 15:09:47-07",
+      "completed": "2016-09-18 15:09:47-07",
+      "rating": 0,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Maken-ki! Specials",
+      "status": "watched",
+      "started": "2016-09-18 15:16:13-07",
+      "completed": "2016-09-18 15:16:13-07",
+      "rating": 0,
+      "times": 1,
+      "eps": 6
+    },
+    {
+      "name": "Maken-ki! Two: Takeru Nyotaika!? Minami no Shima de Supoon",
+      "status": "watched",
+      "started": "2016-09-18 15:51:08-07",
+      "completed": "2016-09-18 15:51:08-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Natsume Yuujinchou Shi",
+      "status": "watched",
+      "started": "2016-09-19 17:56:40-07",
+      "completed": "2016-09-19 17:56:40-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Tales from Earthsea",
+      "status": "watched",
+      "started": "2016-10-01 08:18:21-07",
+      "completed": "2016-10-01 10:23:42-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Fate\/Zero 2",
+      "status": "watched",
+      "started": "2016-09-19 18:35:24-07",
+      "completed": "2016-09-19 18:35:24-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Bunny Drop",
+      "status": "watched",
+      "started": "2016-09-19 19:39:13-07",
+      "completed": "2016-09-21 13:24:21-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 11
+    },
+    {
+      "name": "Fate\/stay night: Unlimited Blade Works",
+      "status": "watched",
+      "started": "2016-09-19 18:38:06-07",
+      "completed": "2016-09-19 18:38:06-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Fate\/stay night: Unlimited Blade Works 2",
+      "status": "watched",
+      "started": "2016-09-19 18:38:45-07",
+      "completed": "2016-09-19 18:38:45-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Sweetness & Lightning",
+      "status": "watched",
+      "started": "2016-09-21 15:59:17-07",
+      "completed": "2016-09-22 18:17:38-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "I Can't Understand What My Husband is Saying",
+      "status": "watched",
+      "started": "2016-09-22 18:40:48-07",
+      "completed": "2016-09-23 06:01:42-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "I Can\u2019t Understand What My Husband Is Saying: 2nd Thread",
+      "status": "watched",
+      "started": "2016-09-23 08:18:50-07",
+      "completed": "2016-09-23 08:18:50-07",
+      "rating": 3,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Kokoro Connect",
+      "status": "watched",
+      "started": "2016-09-23 08:25:46-07",
+      "completed": "2016-09-23 14:03:09-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Kokoro Connect: Michi Random",
+      "status": "watched",
+      "started": "2016-09-23 14:03:26-07",
+      "completed": "2016-09-23 16:12:09-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 4
+    },
+    {
+      "name": "Hyouka",
+      "status": "watched",
+      "started": "2016-09-23 17:18:35-07",
+      "completed": "2016-09-24 13:39:07-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 22
+    },
+    {
+      "name": "Anohana: The Flower We Saw That Day",
+      "status": "watched",
+      "started": "2016-09-24 14:05:20-07",
+      "completed": "2016-09-24 19:39:27-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 11
+    },
+    {
+      "name": "Hyouka: What Should Be Had",
+      "status": "watched",
+      "started": "2016-09-24 13:39:37-07",
+      "completed": "2016-09-24 13:39:37-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Anohana: The Flower We Saw That Day Movie",
+      "status": "watched",
+      "started": "2016-09-25 06:49:58-07",
+      "completed": "2016-09-25 13:57:21-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Usagichan de Cue!!",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Qualidea Code",
+      "status": "watched",
+      "started": "2016-10-02 11:34:38-07",
+      "completed": "2016-10-03 13:31:01-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Absolute Duo",
+      "status": "watched",
+      "started": "2016-09-28 12:12:23-07",
+      "completed": "2016-09-28 19:42:36-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Chivalry of a Failed Knight",
+      "status": "watched",
+      "started": "2016-09-26 17:20:13-07",
+      "completed": "2016-09-27 18:56:06-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Leviathan: The Last Defense",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-10-02 11:31:29-07",
+      "rating": 1,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "The Asterisk War",
+      "status": "watched",
+      "started": "2016-10-01 10:33:49-07",
+      "completed": "2016-10-01 17:21:27-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Blade Dance of the Elementalers",
+      "status": "watched",
+      "started": "2016-09-30 17:03:10-07",
+      "completed": "2016-10-01 08:14:46-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Kaze no Stigma",
+      "status": "stalled",
+      "started": "2016-10-08 18:20:23-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Charlotte",
+      "status": "watched",
+      "started": "2016-09-29 16:02:13-07",
+      "completed": "2016-09-30 15:55:54-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Sky Wizards Academy",
+      "status": "watched",
+      "started": "2016-09-28 20:28:46-07",
+      "completed": "2016-09-29 15:38:25-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Charlotte Special",
+      "status": "watched",
+      "started": "2016-09-30 15:56:33-07",
+      "completed": "2016-09-30 16:52:49-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Dragonar Academy",
+      "status": "watched",
+      "started": "2016-10-01 22:24:27-07",
+      "completed": "2016-10-02 10:32:03-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Asterisk War (2016)",
+      "status": "watched",
+      "started": "2016-10-01 17:22:35-07",
+      "completed": "2016-10-01 22:18:47-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Alderamin on the Sky",
+      "status": "watched",
+      "started": "2016-10-03 14:05:49-07",
+      "completed": "2016-10-04 15:24:35-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Kateikyoushi Hitman Reborn!",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Tanaka-kun is Always Listless",
+      "status": "watched",
+      "started": "2016-10-04 16:18:04-07",
+      "completed": "2016-10-05 16:15:51-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Pandora Hearts",
+      "status": "watched",
+      "started": "2016-10-08 22:18:47-07",
+      "completed": "2016-10-09 19:00:23-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Shangri-La",
+      "status": "stalled",
+      "started": "2016-10-09 19:25:59-07",
+      "completed": null,
+      "rating": 2,
+      "times": 1,
+      "eps": 2
+    },
+    {
+      "name": "Tokyo Ravens",
+      "status": "watched",
+      "started": "2016-10-07 16:16:30-07",
+      "completed": "2016-10-08 18:19:10-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Campione!",
+      "status": "stalled",
+      "started": "2016-10-11 20:54:02-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Flying Witch",
+      "status": "watched",
+      "started": "2016-10-05 16:28:54-07",
+      "completed": "2016-10-06 15:29:39-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Chaika: The Coffin Princess",
+      "status": "watched",
+      "started": "2016-10-13 18:31:42-07",
+      "completed": "2016-10-14 20:33:56-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Is this a Zombie?",
+      "status": "watched",
+      "started": "2016-10-06 16:01:33-07",
+      "completed": "2016-10-07 16:11:47-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Strike the Blood",
+      "status": "watched",
+      "started": "2016-10-10 06:18:55-07",
+      "completed": "2016-10-11 20:00:01-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Strike the Blood OVA",
+      "status": "watched",
+      "started": "2016-10-11 18:26:53-07",
+      "completed": "2016-10-11 19:58:51-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 2
+    },
+    {
+      "name": "Lord Marksman and Vanadis",
+      "status": "watched",
+      "started": "2016-10-12 14:10:08-07",
+      "completed": "2016-10-16 17:53:52-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Undefeated Bahamut Chronicle",
+      "status": "watched",
+      "started": "2016-10-16 09:42:57-07",
+      "completed": "2016-10-16 16:22:06-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Chaika: The Coffin Princess - AVENGING BATTLE",
+      "status": "watched",
+      "started": "2016-10-15 05:28:53-07",
+      "completed": "2016-10-16 09:40:20-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "The Vision of Escaflowne",
+      "status": "stalled",
+      "started": null,
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Legend of Basara",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Berserk",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The World is Still Beautiful",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Ranma 1\/2",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Date a Live",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Seraph of the End",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Laputa: Castle in the Sky",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Origin: Spirits of the Past",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Cardcaptor Sakura",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Testament of Sister New Devil",
+      "status": "watched",
+      "started": "2016-10-25 17:18:10-07",
+      "completed": "2016-10-26 16:32:49-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Trinity Seven",
+      "status": "watched",
+      "started": "2016-10-22 12:25:55-07",
+      "completed": "2016-10-22 17:41:42-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Hunter x Hunter (2011)",
+      "status": "watched",
+      "started": "2017-04-29 17:24:57-07",
+      "completed": "2017-05-02 16:06:44-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 148
+    },
+    {
+      "name": "Rosario + Vampire",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "xxxHOLiC",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "GANTZ",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Air Gear",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Ouran High School Host Club",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Black Bullet",
+      "status": "watched",
+      "started": "2016-10-23 00:07:39-07",
+      "completed": "2016-10-23 13:07:53-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "When They Cry: Higurashi",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Full Metal Panic!",
+      "status": "watched",
+      "started": "2017-05-19 19:02:44-07",
+      "completed": "2017-05-20 16:10:36-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Freezing",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Reikenzan: Hoshikuzu-tachi no Utage",
+      "status": "watched",
+      "started": "2016-10-17 13:59:10-07",
+      "completed": "2016-10-18 12:43:06-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "The Ambition of Oda Nobuna",
+      "status": "stalled",
+      "started": "2016-10-22 09:18:22-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 8
+    },
+    {
+      "name": "The Devil is a Part-Timer!",
+      "status": "watched",
+      "started": "2016-10-22 17:42:49-07",
+      "completed": "2016-10-23 00:05:58-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Battle Girls: Time Paradox",
+      "status": "watched",
+      "started": "2016-10-21 16:46:03-07",
+      "completed": "2016-10-22 09:16:59-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Kanojo ga Flag wo Oraretara",
+      "status": "watched",
+      "started": "2016-10-24 17:19:20-07",
+      "completed": "2016-10-25 16:15:28-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Your lie in April",
+      "status": "watched",
+      "started": "2016-10-18 15:27:32-07",
+      "completed": "2016-10-21 16:27:20-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 22
+    },
+    {
+      "name": "A Certain Scientific Railgun",
+      "status": "stalled",
+      "started": "2016-10-18 12:51:53-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!",
+      "status": "stalled",
+      "started": "2016-10-23 13:34:18-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "Reikenzan: Eichi e no Shikaku",
+      "status": "watched",
+      "started": "2017-05-02 16:29:47-07",
+      "completed": "2017-05-04 12:43:37-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Isuca",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-10-27 17:31:15-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "The Testament of Sister New Devil BURST",
+      "status": "watched",
+      "started": "2016-10-26 16:43:38-07",
+      "completed": "2016-10-27 19:02:21-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Kiba",
+      "status": "dropped",
+      "started": "2016-10-31 16:45:40-07",
+      "completed": "2016-10-31 18:17:28-07",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Samurai Champloo",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Maid-sama!",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Pet Girl of Sakurasou",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Elfen Lied",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Cross Ange: Rondo of Angels and Dragons",
+      "status": "watched",
+      "started": "2016-10-30 08:19:08-07",
+      "completed": "2016-10-31 16:38:23-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Brave10",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Hundred",
+      "status": "watched",
+      "started": "2016-11-03 20:55:10-07",
+      "completed": "2016-11-04 19:21:44-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Witchblade",
+      "status": "watched",
+      "started": "2016-11-05 10:34:57-07",
+      "completed": "2016-11-05 21:28:53-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Horizon in the Middle of Nowhere II",
+      "status": "watched",
+      "started": "2016-10-29 10:27:47-07",
+      "completed": "2016-10-29 18:17:22-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Blade and Soul",
+      "status": "watched",
+      "started": "2016-10-29 21:25:10-07",
+      "completed": "2016-10-30 00:08:53-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Senyuu.",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-10-29 18:25:39-07",
+      "rating": 4,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Invaders of the Rokujyouma!?",
+      "status": "watched",
+      "started": "2016-11-04 19:29:59-07",
+      "completed": "2016-11-05 10:04:15-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Horizon in the Middle of Nowhere",
+      "status": "watched",
+      "started": "2016-10-28 14:30:55-07",
+      "completed": "2016-10-29 10:27:24-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Kakumeiki Valvrave",
+      "status": "watched",
+      "started": "2016-10-31 21:39:02-07",
+      "completed": "2016-11-02 17:20:46-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Valkyrie Drive -Mermaid-",
+      "status": "dropped",
+      "started": "2016-10-31 18:27:45-07",
+      "completed": "2016-10-31 21:08:16-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 5
+    },
+    {
+      "name": "Hybrid x Heart Magias Academy Ataraxia",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-10-31 21:38:12-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Kakumeiki Valvrave 2",
+      "status": "watched",
+      "started": "2016-11-02 17:21:37-07",
+      "completed": "2016-11-04 19:24:57-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Plastic Memories",
+      "status": "dropped",
+      "started": "2016-11-05 21:44:00-07",
+      "completed": "2016-11-05 22:16:06-07",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Shin Koihime Musou",
+      "status": "dropped",
+      "started": "2016-11-05 22:22:35-07",
+      "completed": "2016-11-05 22:43:51-07",
+      "rating": 0.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Bubuki Buranki",
+      "status": "watched",
+      "started": "2016-11-06 04:54:33-08",
+      "completed": "2016-11-07 12:54:09-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Phantasy Star Online 2 The Animation",
+      "status": "dropped",
+      "started": "2016-11-05 22:50:37-07",
+      "completed": "2016-11-06 04:53:32-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "High School DxD",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "07-Ghost",
+      "status": "stalled",
+      "started": "2016-11-12 12:06:12-08",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "11eyes",
+      "status": "watched",
+      "started": "2016-11-13 15:49:37-08",
+      "completed": "2016-11-15 16:47:18-08",
+      "rating": 2,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Blast of Tempest",
+      "status": "stalled",
+      "started": "2016-11-13 07:32:11-08",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 4
+    },
+    {
+      "name": "Neon Genesis Evangelion",
+      "status": "dropped",
+      "started": null,
+      "completed": "2016-11-13 10:39:43-08",
+      "rating": 2.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Scryed",
+      "status": "watched",
+      "started": "2016-11-15 17:03:37-08",
+      "completed": "2016-11-18 10:20:11-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Guilty Crown",
+      "status": "dropped",
+      "started": "2016-11-13 09:37:13-08",
+      "completed": "2016-11-13 10:20:15-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Heroic Age",
+      "status": "watched",
+      "started": "2016-11-07 14:22:42-08",
+      "completed": "2016-11-12 11:53:05-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Soukyuu no Fafner: Dead Aggressor",
+      "status": "dropped",
+      "started": "2016-11-15 14:03:52-08",
+      "completed": "2016-11-15 16:46:50-08",
+      "rating": 2,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Toward the Terra TV",
+      "status": "watched",
+      "started": "2016-11-18 11:05:58-08",
+      "completed": "2016-11-18 20:44:52-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Brain Powerd",
+      "status": "dropped",
+      "started": "2016-11-15 12:29:53-08",
+      "completed": "2016-11-15 12:40:01-08",
+      "rating": 3.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Aquarion",
+      "status": "dropped",
+      "started": "2016-11-12 17:11:52-08",
+      "completed": "2016-11-12 17:28:34-08",
+      "rating": 2,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Gigantic Formula",
+      "status": "dropped",
+      "started": "2016-11-12 15:18:57-08",
+      "completed": "2016-11-12 15:48:25-08",
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Crest of the Stars",
+      "status": "watched",
+      "started": "2016-11-13 18:35:28-08",
+      "completed": "2016-11-15 12:22:52-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Aoki Hagane no Arpeggio: Ars Nova",
+      "status": "watched",
+      "started": "2016-11-12 17:29:25-08",
+      "completed": "2016-11-12 23:21:40-08",
+      "rating": 4,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Starship Operators",
+      "status": "stalled",
+      "started": "2016-11-18 22:08:59-08",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Majestic Prince",
+      "status": "dropped",
+      "started": "2016-11-12 15:52:10-08",
+      "completed": "2016-11-12 16:22:42-08",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Dragonaut: The Resonance",
+      "status": "watched",
+      "started": "2016-11-19 06:56:17-08",
+      "completed": "2016-11-19 18:43:12-08",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Fantastic Children",
+      "status": "watched",
+      "started": "2016-11-19 19:22:19-08",
+      "completed": "2016-11-22 12:19:08-08",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Dragonaut: The Resonance Special",
+      "status": "watched",
+      "started": "2016-11-19 19:11:49-08",
+      "completed": "2016-11-19 19:11:50-08",
+      "rating": 1.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Psycho-Pass",
+      "status": "dropped",
+      "started": "2016-11-22 12:37:23-08",
+      "completed": "2016-11-23 17:57:45-08",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Simoun",
+      "status": "dropped",
+      "started": "2016-11-23 18:06:49-08",
+      "completed": "2016-11-23 18:16:21-08",
+      "rating": 1,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Kaiba",
+      "status": "dropped",
+      "started": "2016-11-23 18:17:01-08",
+      "completed": "2016-11-24 11:59:40-08",
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Bloodivores",
+      "status": "watched",
+      "started": "2017-05-04 12:47:58-07",
+      "completed": "2017-05-04 19:00:18-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Densetsu no Yuusha no Densetsu",
+      "status": "watched",
+      "started": "2017-05-15 17:30:23-07",
+      "completed": "2017-05-16 19:17:30-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "My-Hime",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "And you thought there is never a girl online?",
+      "status": "watched",
+      "started": "2017-05-05 05:53:46-07",
+      "completed": "2017-05-05 17:32:10-07",
+      "rating": 2.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Fairy Tail OVA",
+      "status": "watched",
+      "started": "2017-04-29 17:35:26-07",
+      "completed": "2017-04-29 17:35:26-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 5
+    },
+    {
+      "name": "Fairy Tail 2 OVA",
+      "status": "watched",
+      "started": "2017-04-29 17:35:41-07",
+      "completed": "2017-04-29 17:35:41-07",
+      "rating": 4,
+      "times": 1,
+      "eps": 3
+    },
+    {
+      "name": "Fairy Tail x Rave",
+      "status": "watched",
+      "started": "2017-04-29 17:35:53-07",
+      "completed": "2017-04-29 17:35:53-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Quan Zhi Gao Shou",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Toward the Terra",
+      "status": "watched",
+      "started": "2017-04-29 17:47:48-07",
+      "completed": "2017-04-29 17:47:48-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Grimoire of Zero",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Beyond the Boundary",
+      "status": "watched",
+      "started": "2017-05-17 13:04:28-07",
+      "completed": "2017-05-18 00:19:47-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Magi: The Kingdom of Magic",
+      "status": "watched",
+      "started": "2017-04-30 07:13:00-07",
+      "completed": "2017-04-30 07:13:00-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Magi: Adventure of Sinbad",
+      "status": "watched",
+      "started": "2017-04-30 07:13:20-07",
+      "completed": "2017-04-30 07:13:20-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 13
+    },
+    {
+      "name": "Aldnoah.Zero",
+      "status": "watched",
+      "started": "2017-04-30 07:20:55-07",
+      "completed": "2017-04-30 07:20:55-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "One-Punch Man",
+      "status": "watched",
+      "started": "2017-04-30 20:26:15-07",
+      "completed": "2017-04-30 20:26:15-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "One-Punch Man 2",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Valkyria Chronicles",
+      "status": "dropped",
+      "started": "2017-05-13 02:17:44-07",
+      "completed": "2017-05-13 06:17:39-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Gosick",
+      "status": "watched",
+      "started": "2017-05-18 12:27:14-07",
+      "completed": "2017-05-19 18:56:50-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Overlord II",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Blood Lad",
+      "status": "watched",
+      "started": "2017-05-20 16:48:19-07",
+      "completed": "2017-05-20 21:16:23-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 10
+    },
+    {
+      "name": "Assassination Classroom TV",
+      "status": "watched",
+      "started": "2017-05-20 21:22:08-07",
+      "completed": "2017-05-21 16:41:27-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 22
+    },
+    {
+      "name": "Taboo-Tattoo",
+      "status": "dropped",
+      "started": "2017-05-10 13:47:56-07",
+      "completed": "2017-05-10 16:34:11-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Coppelion",
+      "status": "dropped",
+      "started": "2017-05-04 19:05:10-07",
+      "completed": "2017-05-04 19:16:43-07",
+      "rating": 1.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Steins;Gate",
+      "status": "watched",
+      "started": "2017-05-08 13:45:20-07",
+      "completed": "2017-05-09 18:07:03-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Beelzebub",
+      "status": "stalled",
+      "started": "2017-05-22 13:48:20-07",
+      "completed": null,
+      "rating": 2,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Trigun",
+      "status": "watched",
+      "started": "2017-05-22 14:25:53-07",
+      "completed": "2017-05-24 13:58:44-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Sunday Without God",
+      "status": "stalled",
+      "started": "2017-05-24 14:36:50-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Bikini Warriors",
+      "status": "won't watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Danganronpa: The Animation",
+      "status": "stalled",
+      "started": "2017-05-27 11:49:59-07",
+      "completed": null,
+      "rating": 3,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Divine Gate",
+      "status": "stalled",
+      "started": "2017-05-13 18:01:40-07",
+      "completed": "2017-05-13 18:41:31-07",
+      "rating": 2,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Mnemosyne",
+      "status": "watched",
+      "started": "2017-05-27 12:40:24-07",
+      "completed": "2017-05-27 19:23:54-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 6
+    },
+    {
+      "name": "Another",
+      "status": "stalled",
+      "started": "2017-05-27 19:26:30-07",
+      "completed": null,
+      "rating": 3.5,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Steins;Gate: Egoistic Poriomania",
+      "status": "watched",
+      "started": "2017-05-09 18:23:02-07",
+      "completed": "2017-05-09 18:35:22-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Steins;Gate 0",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "ERASED",
+      "status": "watched",
+      "started": "2017-05-13 10:06:19-07",
+      "completed": "2017-05-13 17:02:30-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Eden of the East",
+      "status": "watched",
+      "started": "2017-05-27 19:45:29-07",
+      "completed": "2017-05-28 12:57:17-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 11
+    },
+    {
+      "name": "Yoku Wakaru Gendai Mahou",
+      "status": "dropped",
+      "started": "2017-05-14 19:53:31-07",
+      "completed": "2017-05-15 13:19:54-07",
+      "rating": 1,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Bakemonogatari",
+      "status": "stalled",
+      "started": "2017-05-28 13:00:40-07",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 3
+    },
+    {
+      "name": "Ergo Proxy",
+      "status": "stalled",
+      "started": "2017-05-13 06:20:51-07",
+      "completed": null,
+      "rating": 4,
+      "times": 0,
+      "eps": 6
+    },
+    {
+      "name": "Amnesia",
+      "status": "stalled",
+      "started": "2017-05-11 12:31:57-07",
+      "completed": null,
+      "rating": 4.5,
+      "times": 0,
+      "eps": 7
+    },
+    {
+      "name": "Maria the Virgin Witch",
+      "status": "watched",
+      "started": "2017-05-11 17:21:50-07",
+      "completed": "2017-05-12 19:07:49-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Youjo Senki: Saga of Tanya the Evil",
+      "status": "watched",
+      "started": "2017-05-12 19:26:11-07",
+      "completed": "2017-05-13 01:23:27-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Izetta: The Last Witch",
+      "status": "stalled",
+      "started": "2017-05-13 01:25:18-07",
+      "completed": null,
+      "rating": 2,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "Youjo Senki: Saga of Tanya the Evil - War Report",
+      "status": "watched",
+      "started": "2017-05-13 00:59:52-07",
+      "completed": "2017-05-13 00:59:52-07",
+      "rating": 3.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Witch Hunter Robin",
+      "status": "watched",
+      "started": "2017-05-28 14:01:37-07",
+      "completed": "2017-05-30 17:03:48-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 26
+    },
+    {
+      "name": "Black Lagoon",
+      "status": "watched",
+      "started": "2017-05-13 19:10:41-07",
+      "completed": "2017-05-14 12:18:26-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Black Lagoon: The Second Barrage",
+      "status": "watched",
+      "started": "2017-05-14 12:19:29-07",
+      "completed": "2017-05-14 19:41:54-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Yoku Wakaru Gendai Mahou 00",
+      "status": "watched",
+      "started": "2017-05-14 19:54:00-07",
+      "completed": "2017-05-14 20:21:47-07",
+      "rating": 1.5,
+      "times": 1,
+      "eps": 1
+    },
+    {
+      "name": "Black Lagoon Specials",
+      "status": "watched",
+      "started": "2017-05-15 13:05:11-07",
+      "completed": "2017-05-15 13:05:11-07",
+      "rating": 2,
+      "times": 1,
+      "eps": 7
+    },
+    {
+      "name": "Machine-Doll wa Kizutsukanai",
+      "status": "stalled",
+      "started": "2017-05-30 17:18:01-07",
+      "completed": null,
+      "rating": 2,
+      "times": 0,
+      "eps": 2
+    },
+    {
+      "name": "The Mystic Archives of Dantalian",
+      "status": "watched",
+      "started": "2017-05-30 18:20:28-07",
+      "completed": "2017-05-31 17:46:47-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "name": "Library War",
+      "status": "stalled",
+      "started": "2017-05-20 01:04:41-07",
+      "completed": null,
+      "rating": 2,
+      "times": 1,
+      "eps": 2
+    },
+    {
+      "name": "Assassination Classroom TV 2nd Season",
+      "status": "watched",
+      "started": "2017-05-21 16:56:43-07",
+      "completed": "2017-05-22 13:34:41-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 25
+    },
+    {
+      "name": "Akashic Records of Bastard Magical Instructor",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Trinity Blood",
+      "status": "watched",
+      "started": "2017-05-31 19:10:25-07",
+      "completed": "2017-06-03 14:10:09-07",
+      "rating": 4.5,
+      "times": 1,
+      "eps": 24
+    },
+    {
+      "name": "Tenshi na Konamaiki",
+      "status": "watched",
+      "started": "2017-05-24 16:42:00-07",
+      "completed": "2017-05-27 11:46:51-07",
+      "rating": 5,
+      "times": 1,
+      "eps": 50
+    },
+    {
+      "name": "Golden Time",
+      "status": "stalled",
+      "started": "2017-06-03 23:04:46-07",
+      "completed": null,
+      "rating": 2.5,
+      "times": 0,
+      "eps": 9
+    },
+    {
+      "name": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Rage of Bahamut: Virgin Soul",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "ACCA: 13-Territory Inspection Dept.",
+      "status": "watching",
+      "started": "2017-06-04 16:05:20-07",
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 1
+    },
+    {
+      "name": "Hakkenden: Eight Dogs of the East",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Cuticle Detective Inaba",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "RIN-NE",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Beautiful Bones: Sakurako\u2019s Investigation",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Brynhildr in the Darkness",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "The Flowers of Evil",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Tasogare Otome x Amnesia",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Shigurui: Death Frenzy",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Chrono Crusade",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    },
+    {
+      "name": "Black Blood Brothers",
+      "status": "watched",
+      "started": "2017 - 06 - 03 21: 34: 22 - 07",
+      "completed": "2017 - 06 - 03 21: 34: 36 - 07",
+      "rating": 5,
+      "times": 1,
+      "eps": 12
+    },
+    {
+      "status": "watched",
+      "name": "Ponyo on the Cliff by the Sea",
+      "started": "2018 - 06 - 25 19: 11: 16 - 07",
+      "completed": "2018 - 06 - 25 19: 11: 16 - 07",
+      "rating": 4.5,
+      "times": 2,
+      "eps": 1
+    },
+    {
+      "name": "Classroom of the Elite",
+      "status": "want to watch",
+      "started": null,
+      "completed": null,
+      "rating": 0,
+      "times": 0,
+      "eps": 0
+    }
+  ]
+}

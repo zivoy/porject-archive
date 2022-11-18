@@ -1,0 +1,23 @@
+[redacted] ------ bot token
+
+
+
+{
+  "prefix": "o!",
+  "debug": true,
+  "osu_cache_path": "/tmp/osumaps",
+  "pp_path": "/home/ziv132/osu-tools/PerformanceCalculator/bin/Release/netcoreapp2.0/PerformanceCalculator.dll",
+  "beatmap_api": "https://osu.lea.moe",
+  "credentials": {
+    "bot_token": "[redacted]",
+    "discord_client_id": "598353323673780236",
+    "osu_api_key": "[redacted]",
+    "twitch_client_id": "[redacted]",
+    "pexels_key": "[redacted]",
+    "last_fm_key": "[redacted]"
+  },
+  "logsCredentials": {
+    "rawPassword": "[redacted]",
+    "encPassword": "e31ecac48f92a2c23373214d13f54135d31105eb"
+  }
+}

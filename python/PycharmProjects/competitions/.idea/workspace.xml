@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d260e17f-8ff5-45d9-93b4-63f049702bca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="shorten-urls@192.168.86.30" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="4dee57dd-0e1e-48f7-b7bb-038a51a4d785" />
+  <component name="ProjectId" id="1UwNnWeJZcsVpoUGUrhFDYbgdv1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ccc/2020s2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zivno\PycharmProjects\untitled\ccc\2020s2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zivno\PycharmProjects\untitled\ccc\2020s4" />
+      <recent name="C:\Users\zivno\PycharmProjects\untitled\ccc\2020s5" />
+      <recent name="C:\Users\zivno\PycharmProjects\untitled\ccc\2020s3" />
+      <recent name="C:\Users\zivno\PycharmProjects\untitled\ccc\2020s2" />
+      <recent name="C:\Users\zivno\PycharmProjects\untitled\ccc\2020s1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.s3">
+    <configuration name="acc1p1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/acc1p1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moose weekq" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moose weekq/q2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moose weekq" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moose weekq/q5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moose weekq" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moose weekq/s3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trygraph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trygraph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.s3" />
+        <item itemvalue="Python.q5" />
+        <item itemvalue="Python.q2" />
+        <item itemvalue="Python.trygraph" />
+        <item itemvalue="Python.acc1p1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="shorten-urls@192.168.86.30: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="shorten-urls@192.168.86.30: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@3e093d5" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d260e17f-8ff5-45d9-93b4-63f049702bca" name="Default Changelist" comment="" />
+      <created>1576263865005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576263865005</updated>
+      <workItem from="1576263866317" duration="9671000" />
+      <workItem from="1576450690760" duration="683000" />
+      <workItem from="1581104124901" duration="437000" />
+      <workItem from="1581105203678" duration="11970000" />
+      <workItem from="1581272096224" duration="3798000" />
+      <workItem from="1581392016055" duration="1870000" />
+      <workItem from="1581475405165" duration="35319000" />
+      <workItem from="1581568136535" duration="16454000" />
+      <workItem from="1584124874056" duration="1797000" />
+      <workItem from="1584126951569" duration="4252000" />
+      <workItem from="1584639365741" duration="2052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584639553341">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="291" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1396.744@0.0.1396.744" timestamp="1584639553341" />
+    <state x="481" y="177" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584129439973">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="481" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584129439973" />
+    <state x="481" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1396.744@0.0.1396.744" timestamp="1581475427785" />
+    <state x="379" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584639371293">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="379" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1396.744@0.0.1396.744" timestamp="1584639371293" />
+    <state x="767" y="153" key="#xdebugger.evaluate" timestamp="1584128189471">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="767" y="153" key="#xdebugger.evaluate/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584128189471" />
+    <state x="767" y="153" key="#xdebugger.evaluate/0.0.1396.744@0.0.1396.744" timestamp="1581654047304" />
+    <state x="479" y="115" key="FileChooserDialogImpl" timestamp="1584645869235">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="479" y="115" key="FileChooserDialogImpl/0.0.1396.744@0.0.1396.744" timestamp="1584645869235" />
+    <state width="926" height="184" key="GridCell.Tab.0.bottom" timestamp="1584639582904">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="119" key="GridCell.Tab.0.bottom/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584130553125" />
+    <state width="926" height="184" key="GridCell.Tab.0.bottom/0.0.1396.744@0.0.1396.744" timestamp="1584639582904" />
+    <state width="926" height="184" key="GridCell.Tab.0.center" timestamp="1584639582903">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="119" key="GridCell.Tab.0.center/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584130553124" />
+    <state width="926" height="184" key="GridCell.Tab.0.center/0.0.1396.744@0.0.1396.744" timestamp="1584639582903" />
+    <state width="926" height="184" key="GridCell.Tab.0.left" timestamp="1584639582901">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="119" key="GridCell.Tab.0.left/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584130553123" />
+    <state width="926" height="184" key="GridCell.Tab.0.left/0.0.1396.744@0.0.1396.744" timestamp="1584639582901" />
+    <state width="926" height="184" key="GridCell.Tab.0.right" timestamp="1584639582904">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="119" key="GridCell.Tab.0.right/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584130553125" />
+    <state width="926" height="184" key="GridCell.Tab.0.right/0.0.1396.744@0.0.1396.744" timestamp="1584639582904" />
+    <state width="1353" height="159" key="GridCell.Tab.1.bottom" timestamp="1584131739555">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="159" key="GridCell.Tab.1.bottom/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584128195476" />
+    <state width="1353" height="159" key="GridCell.Tab.1.bottom/0.0.1396.744@0.0.1396.744" timestamp="1584131739555" />
+    <state width="1353" height="159" key="GridCell.Tab.1.center" timestamp="1584131739554">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="159" key="GridCell.Tab.1.center/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584128195476" />
+    <state width="1353" height="159" key="GridCell.Tab.1.center/0.0.1396.744@0.0.1396.744" timestamp="1584131739554" />
+    <state width="1353" height="159" key="GridCell.Tab.1.left" timestamp="1584131739553">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="159" key="GridCell.Tab.1.left/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584128195475" />
+    <state width="1353" height="159" key="GridCell.Tab.1.left/0.0.1396.744@0.0.1396.744" timestamp="1584131739553" />
+    <state width="1353" height="159" key="GridCell.Tab.1.right" timestamp="1584131739554">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1353" height="159" key="GridCell.Tab.1.right/0.0.1396.744/1920.0.931.704@0.0.1396.744" timestamp="1584128195476" />
+    <state width="1353" height="159" key="GridCell.Tab.1.right/0.0.1396.744@0.0.1396.744" timestamp="1584131739554" />
+    <state x="208" y="16" key="SettingsEditor" timestamp="1581568097499">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="208" y="16" key="SettingsEditor/0.0.1396.744@0.0.1396.744" timestamp="1581568097499" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581275083549">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1396.744@0.0.1396.744" timestamp="1581275083549" />
+    <state x="453" y="127" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1584639655423">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="453" y="127" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1396.744@0.0.1396.744" timestamp="1584639655423" />
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1581659515827">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1396.744@0.0.1396.744" timestamp="1581659515827" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3s3.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/s4/q1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ccc prac/20p2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ccc/2020s4/20s4.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ccc/2020s3/dumb.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ccc/2020s3/20s3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/APIO '14 P1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/CCC '03 S4.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/acc1p1.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trygraph.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trygraph.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$20p1__1_.coverage" NAME="20p1 (1) Coverage Results" MODIFIED="1581479219709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc prac" />
+    <SUITE FILE_PATH="coverage/untitled$3s3.coverage" NAME="3s3 Coverage Results" MODIFIED="1576273379938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$20p1.coverage" NAME="20p1 Coverage Results" MODIFIED="1581475867811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc prac" />
+    <SUITE FILE_PATH="coverage/untitled$CCC__03_S4.coverage" NAME="CCC '03 S4 Coverage Results" MODIFIED="1581629786843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/untitled$s3.coverage" NAME="s3 Coverage Results" MODIFIED="1584130553100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moose weekq" />
+    <SUITE FILE_PATH="coverage/untitled$20s3.coverage" NAME="20s3 Coverage Results" MODIFIED="1581553653260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc/2020s3" />
+    <SUITE FILE_PATH="coverage/untitled$q5.coverage" NAME="q5 Coverage Results" MODIFIED="1584128544116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moose weekq" />
+    <SUITE FILE_PATH="coverage/untitled$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1581106804083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s4" />
+    <SUITE FILE_PATH="coverage/untitled$20s4.coverage" NAME="20s4 Coverage Results" MODIFIED="1581545830917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc/2020s4" />
+    <SUITE FILE_PATH="coverage/untitled$3s2.coverage" NAME="3s2 Coverage Results" MODIFIED="1576273359139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$20p2.coverage" NAME="20p2 Coverage Results" MODIFIED="1581477782616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc prac" />
+    <SUITE FILE_PATH="coverage/untitled$acc1p1.coverage" NAME="acc1p1 Coverage Results" MODIFIED="1581632386380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/untitled$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1584126574054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moose weekq" />
+    <SUITE FILE_PATH="coverage/untitled$3s1.coverage" NAME="3s1 Coverage Results" MODIFIED="1576265194854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$trygraph.coverage" NAME="trygraph Coverage Results" MODIFIED="1584126555116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$APIO__14_P1.coverage" NAME="APIO '14 P1 Coverage Results" MODIFIED="1581565580950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/untitled$20s2.coverage" NAME="20s2 Coverage Results" MODIFIED="1581540555638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc/2020s2" />
+    <SUITE FILE_PATH="coverage/untitled$20p3.coverage" NAME="20p3 Coverage Results" MODIFIED="1581480776097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc prac" />
+    <SUITE FILE_PATH="coverage/untitled$dumb.coverage" NAME="dumb Coverage Results" MODIFIED="1581551151906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ccc/2020s3" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="[a||b]{3}" />
+        <entry key="text" value="abacabaa" />
+      </map>
+    </option>
+  </component>
+</project>

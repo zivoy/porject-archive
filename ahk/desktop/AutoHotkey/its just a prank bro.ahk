@@ -1,0 +1,2 @@
+﻿#NoTrayIcon
+*Space::Send,SPACE

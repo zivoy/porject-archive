@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd28e4e4-c409-42ab-a99f-5ad184671efa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WteHIEgCwiJoppVfgn1AudXYdG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/dependencys" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dependencys" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zivno\IdeaProjects\drawing board\dependencys" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zivno\IdeaProjects\drawing board\dependencys" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="drawboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawboard" />
+      <module name="drawing board" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.drawboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd28e4e4-c409-42ab-a99f-5ad184671efa" name="Default Changelist" comment="" />
+      <created>1579973228678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579973228678</updated>
+      <workItem from="1579973237679" duration="20251000" />
+      <workItem from="1580353042916" duration="852000" />
+      <workItem from="1580360557694" duration="868000" />
+      <workItem from="1582229856360" duration="1246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1579981562460">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="504" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1396.744@0.0.1396.744" timestamp="1579981562460" />
+    <state x="236" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579981494713">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="236" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1396.744@0.0.1396.744" timestamp="1579981494713" />
+    <state x="479" y="128" key="FileChooserDialogImpl" timestamp="1579975166481">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="479" y="128" key="FileChooserDialogImpl/0.0.1396.744@0.0.1396.744" timestamp="1579975166481" />
+    <state x="179" y="0" key="SettingsEditor" timestamp="1579975173932">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="179" y="0" key="SettingsEditor/0.0.1396.744@0.0.1396.744" timestamp="1579975173932" />
+    <state x="400" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1580353045235">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="400" y="198" key="com.intellij.ide.util.TipDialog/0.0.1396.744@0.0.1396.744" timestamp="1580353045235" />
+    <state x="0" y="0" width="729" height="744" key="find.popup" timestamp="1579973672159">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="0" y="0" width="729" height="744" key="find.popup/0.0.1396.744@0.0.1396.744" timestamp="1579973672159" />
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1580004622208">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1396.744@0.0.1396.744" timestamp="1580004622208" />
+  </component>
+</project>
